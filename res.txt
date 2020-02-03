@@ -1,0 +1,80 @@
+{
+    "claims": [
+        "1. A hand-operated device (1) for driving fasteners (3) into a substrate (6), having a tripping device (20), whose actuation initiates a driving operation and can be blocked in dependence of at least one device state, characterized in that the triggering device is associated with the blocked actuation of the trigger means (20) or can be released, (20) an electrically operated, mechanical locking means (40 24).\n",
+        "2. A hand-operated device (1) according to claim 1, characterized in that the blocking device (24) comprises a plunger (25) which acts mechanically on a trigger switch (22) of the triggering device (20).\n",
+        "3. A hand-operated device (1) according to claim 2, characterized in that the plunger (25) between a blocking position in which the trigger switch (22) is blocked, and a release position in which the trigger switch (22) is released, in particular linear or about a pivot axis, is movable ,.\n",
+        "4. A hand-operated device (1) according to any one of the preceding claims, characterized in that the blocking device (40) mechanically connected to a transmission element (30) is coupled, which in turn acts mechanically on the triggering device (20).\n",
+        "5. A hand-operated device (1) according to claim 4, characterized in that the transmission element (30) has a recess (34) whose position relative to the triggering device (20) is variable by the blocking device (40).\n",
+        "6. A hand-operated device (1) according to claim 5, characterized in that the recess (34) is positioned in a receiving position so to the triggering device (20), that an actuator (35) of the triggering device (20) upon actuation thereof into the recess (34) engages, without causing a movement of the transmission element (30).\n",
+        "7. A hand-operated device (1) according to claim 6, characterized in that the recess (34) is positioned in a release position as to the triggering device (20), that the actuator (35) of the triggering device (20) when actuated, a movement of the triggers transmission element (30). \r\n",
+        "8. A hand-operated device (1) according to one of claims 4 to 7, characterized in that the transmission element (30) as the lever (32) is performed in the longitudinal direction by the blocking device (40) and in the transverse direction by the triggering means (20) can be acted upon.\n",
+        "9. A hand-operated device (1) according to any one of the preceding claims, characterized in that the blocking device (24; 40) in terms of control with a\n       Controller (18) is connected.\n",
+        "10. A hand-operated device (1) according to any one of the preceding claims, characterized in that the controller (18) having a Anpressf\u00fchler (16) is connected.\n",
+        "11. A hand-operated device (1) according to claim 10, characterized in that the control of the locking means (24; 40) is electrically actuated so that the locking device\n       (24; 40) releases the actuation of the triggering device (20) when the Anpressf\u00fchler (16) detects a pressing of the hand-held power tool (1) on a substrate, and that the blocking device (24; 40) blocks the actuation of the triggering device (20) when the Anpressf\u00fchler (16) does not detect any pressing of the hand-held power tool (1) on a substrate.\n",
+        "12. A hand-operated device (1) according to any one of the preceding claims, characterized in that the blocking device (24; 40) includes an electromagnet and a lifting member.\n",
+        "13. A hand-operated device (1) according to claim 12, characterized in that the\n       Lifting member at least partially immersed in the electromagnet.\n",
+        "14. A hand-operated device (1) according to claim 12, characterized in that the lifting member is arranged both in the blocking position and in the release position of the locking means completely outside the electromagnet.\n",
+        "15. A hand-operated device (1) according to one of the preceding claims, characterized in that the ram having the lifting member.\n"
+    ],
+    "dominators": {
+        "15": [
+            1
+        ],
+        "14": [
+            12,
+            1
+        ],
+        "13": [
+            12,
+            1
+        ],
+        "12": [
+            1
+        ],
+        "11": [
+            10,
+            1
+        ],
+        "10": [
+            1
+        ],
+        "9": [
+            1
+        ],
+        "8": [
+            4,
+            1
+        ],
+        "7": [
+            6,
+            5,
+            4,
+            1
+        ],
+        "6": [
+            5,
+            4,
+            1
+        ],
+        "5": [
+            4,
+            1
+        ],
+        "4": [
+            1
+        ],
+        "3": [
+            2,
+            1
+        ],
+        "2": [
+            1
+        ],
+        "1": [
+            1
+        ]
+    },
+    "indeps": [
+        1
+    ]
+}

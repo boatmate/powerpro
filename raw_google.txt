@@ -1,0 +1,2358 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>CN1250377C - Reciprocating cutting tool 
+        - Google Patents</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <link rel="canonical" href="https://patents.google.com/patent/CN1250377C/en">
+    <meta name="description" content="    A reciprocating cutting tool comprising a first direction as the reciprocating slide.  A bar along a first direction and movement of the slider along the slider bar may be supported so as to make this a direction different from the first direction, this second direction.  A tool mounted on the rod.  This rod can be used independently of the movement of the slide movement in a first direction along a second direction.    ">
+    
+    <meta name="DC.type" content="patent">
+    
+    <meta name="DC.title" content="Reciprocating cutting tool 
+       ">
+    
+    <meta name="DC.date" content="2001-09-19" scheme="dateSubmitted">
+    
+    <meta name="DC.description" content="    A reciprocating cutting tool comprising a first direction as the reciprocating slide.  A bar along a first direction and movement of the slider along the slider bar may be supported so as to make this a direction different from the first direction, this second direction.  A tool mounted on the rod.  This rod can be used independently of the movement of the slide movement in a first direction along a second direction.    ">
+    
+    <meta name="citation_patent_application_number" content="CN: 01138458">
+    
+    <meta name="citation_pdf_url" content="https://patentimages.storage.googleapis.com/d1/85/75/35a768847120a9/CN1250377C.pdf">
+    
+    <meta name="citation_patent_number" content="CN:1250377:C">
+    
+    <meta name="DC.date" content="2006-04-12" scheme="issue">
+    
+    <meta name="DC.contributor" content="高桥雄志" scheme="inventor">
+    
+    <meta name="DC.contributor" content="稻吉广共" scheme="inventor">
+    
+    <meta name="DC.contributor" content="株式会社牧田" scheme="assignee">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Product+Sans">
+    <style>
+      body { transition: none; }
+    </style>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-27188110-4', 'auto');
+
+      version = 'patent-search.search_20191120_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "ae,ag,al,am,ao,ap,ar,at,au,aw,az,ba,bb,bd,be,bf,bg,bh,bj,bn,bo,br,bw,bx,by,bz,ca,cf,cg,ch,ci,cl,cm,cn,co,cr,cs,cu,cy,cz,dd,de,dj,dk,dm,do,dz,ea,ec,ee,eg,em,ep,es,fi,fr,ga,gb,gc,gd,ge,gh,gm,gn,gq,gr,gt,gw,hk,hn,hr,hu,ib,id,ie,il,in,ir,is,it,jo,jp,ke,kg,kh,km,kn,kp,kr,kw,kz,la,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mg,mk,ml,mn,mo,mr,mt,mw,mx,my,mz,na,ne,ng,ni,nl,no,nz,oa,om,pa,pe,pg,ph,pl,pt,py,qa,ro,rs,ru,rw,sa,sc,sd,se,sg,si,sk,sl,sm,sn,st,su,sv,sy,sz,td,tg,th,tj,tm,tn,tr,tt,tw,tz,ua,ug,us,uy,uz,vc,ve,vn,wo,yu,za,zm,zw";
+      
+      
+      window.profilePicture = "";
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20191120_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+    
+    <link rel="import" href="//www.gstatic.com/patent-search/frontend/patent-search.search_20191120_RC00/scs/compiled_dir/search-app-vulcanized.html">
+    
+  </head>
+  <body unresolved>
+    
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20191120_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+    
+    <search-app>
+      
+      
+
+      <article class="result" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <h1 itemprop="pageTitle">CN1250377C - Reciprocating cutting tool 
+        - Google Patents</h1>
+  <span itemprop="title">Reciprocating cutting tool 
+       </span>
+
+  <meta itemprop="type" content="patent">
+  <a href="https://patentimages.storage.googleapis.com/d1/85/75/35a768847120a9/CN1250377C.pdf" itemprop="pdfLink">Download PDF</a>
+  <h2>Info</h2>
+
+  <dl>
+    <dt>Publication number</dt>
+    <dd itemprop="publicationNumber">CN1250377C</dd>
+    <meta itemprop="numberWithoutCodes" content="1250377">
+    <meta itemprop="kindCode" content="C">
+    <meta itemprop="publicationDescription" content="Granted Patent">
+    
+    <span>CN1250377C</span>
+    
+    <span>CN 01138458</span>
+    
+    <span>CN01138458A</span>
+    
+    <span>CN1250377C</span>
+    
+    <span>CN 1250377 C</span>
+    
+    <span>CN1250377 C</span>
+    
+    <span>CN 1250377C</span>
+    
+    <span>CN 01138458 </span>
+    
+    <span>CN01138458 </span>
+    
+    <span>CN 01138458</span>
+    
+    <span>CN 01138458 A</span>
+    
+    <span>CN01138458 A</span>
+    
+    <span>CN 01138458A</span>
+    
+    <span>CN 1250377 C</span>
+    
+    <span>CN1250377 C</span>
+    
+    <span>CN 1250377C</span>
+    
+
+    <dt>Authority</dt>
+    <dd itemprop="countryCode">CN</dd>
+    <dd itemprop="countryName">China</dd>
+
+    <dt>Prior art keywords</dt>
+    
+    <dd itemprop="priorArtKeywords" repeat>slider</dd>
+    <dd itemprop="priorArtKeywords" repeat>plane</dd>
+    <dd itemprop="priorArtKeywords" repeat>guide</dd>
+    <dd itemprop="priorArtKeywords" repeat>tool</dd>
+    <dd itemprop="priorArtKeywords" repeat>direction</dd>
+
+    <dt>Prior art date</dt>
+    <dd><time itemprop="priorArtDate" datetime="2000-09-19">2000-09-19</time></dd>
+
+    
+  </dl>
+
+  <dt>Application number</dt>
+  <dd itemprop="applicationNumber">CN 01138458</dd>
+
+  <dt>Other languages</dt>
+  <dd itemprop="otherLanguages" itemscope repeat>
+    <a href="/patent/CN1250377C/zh">
+      <span itemprop="name">Chinese</span> (<span itemprop="code">zh</span>)
+    </a>
+  </dd>
+
+  <dt>Other versions</dt>
+  <dd itemprop="directAssociations" itemscope repeat>
+    
+    <a href="/patent/CN1404971A/en">
+      <span itemprop="publicationNumber">CN1404971A</span>
+      (<span itemprop="primaryLanguage">en</span>
+    </a>
+  </dd>
+
+  <dt>Inventor</dt>
+  <dd itemprop="inventor" repeat>高桥雄志</dd>
+  <dd itemprop="inventor" repeat>稻吉广共</dd>
+  
+
+  <dt>Original Assignee</dt>
+  <dd itemprop="assigneeOriginal" repeat>株式会社牧田</dd>
+
+  <dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+  <dd><time itemprop="priorityDate" datetime="2000-09-19">2000-09-19</time></dd>
+
+  <dt>Filing date</dt>
+  <dd><time itemprop="filingDate" datetime="2001-09-19">2001-09-19</time></dd>
+
+  <dt>Publication date</dt>
+  <dd><time itemprop="publicationDate" datetime="2006-04-12">2006-04-12</time></dd>
+
+  
+
+  
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2000-09-19">2000-09-19</time>
+    <span itemprop="title">Priority to JP2000283964A</span>
+    <span itemprop="type">priority</span>
+    
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    <span itemprop="documentId">patent/JP3710697B2/en</span>
+    
+    
+    
+  </dd>
+  
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2001-09-19">2001-09-19</time>
+    <span itemprop="title">Application filed by 株式会社牧田</span>
+    <span itemprop="type">filed</span>
+    
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    
+    <span itemprop="assigneeSearch">株式会社牧田</span>
+    
+    
+  </dd>
+  
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2003-03-26">2003-03-26</time>
+    <span itemprop="title">Publication of CN1404971A</span>
+    <span itemprop="type">publication</span>
+    
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    <span itemprop="documentId">patent/CN1404971A/en</span>
+    
+    
+    
+  </dd>
+  
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2006-04-12">2006-04-12</time>
+    <span itemprop="title">Application granted</span>
+    <span itemprop="type">granted</span>
+    
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    
+    
+  </dd>
+  
+  <dd itemprop="events" itemscope repeat>
+    <time itemprop="date" datetime="2006-04-12">2006-04-12</time>
+    <span itemprop="title">Publication of CN1250377C</span>
+    <span itemprop="type">publication</span>
+    
+    <span itemprop="critical" content="true" bool>Critical</span>
+    
+    
+    
+    <span itemprop="documentId">patent/CN1250377C/en</span>
+    
+    
+    
+  </dd>
+  
+
+  <h2>Links</h2>
+
+  <ul>
+    
+
+    <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="espacenetLink">
+        <a href="http://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&amp;NR=1250377C&amp;KC=C&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+      </li>
+      
+
+    
+
+    
+        <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="globalDossierLink">
+          <a href="http://globaldossier.uspto.gov/#/result/publication/CN/1250377/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+        </li>
+
+      
+
+      
+
+      
+
+      
+        <li itemprop="links" itemscope repeat>
+          <meta itemprop="id" content="stackexchangeLink">
+          <a href="https://patents.stackexchange.com/questions/tagged/CN1250377C" itemprop="url"><span itemprop="text">Discuss</span></a>
+        </li>
+  </ul>
+
+  
+  <ul itemprop="concept" itemscope>
+  
+    <li itemprop="match" itemscope repeat>
+      <span itemprop="id">238000005520</span>
+      <span itemprop="name">cutting process</span>
+      <span itemprop="domain">Methods</span>
+      <span itemprop="svg_large"></span>
+      <span itemprop="svg_small"></span>
+      <span itemprop="smiles"></span>
+      <span itemprop="inchi_key"></span>
+      <span itemprop="similarity">0</span>
+      
+      <span itemprop="sections" repeat>title</span>
+      
+      <span itemprop="count">1</span>
+    </li>
+  
+  </ul>
+  
+
+  
+
+  <section>
+    <h2>Classifications</h2>
+    
+    <ul>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23</span>&mdash;<span itemprop="Description">MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23D</span>&mdash;<span itemprop="Description">PLANING; SLOTTING; SHEARING; BROACHING; SAWING; FILING; SCRAPING; LIKE OPERATIONS FOR WORKING METAL BY REMOVING MATERIAL, NOT OTHERWISE PROVIDED FOR</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23D49/00</span>&mdash;<span itemprop="Description">Machines or devices for sawing with straight reciprocating saw blades, e.g. hacksaws</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23D49/10</span>&mdash;<span itemprop="Description">Hand-held or hand-operated sawing devices with straight saw blades</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23D49/16</span>&mdash;<span itemprop="Description">Hand-held or hand-operated sawing devices with straight saw blades actuated by electric or magnetic power or prime movers</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23D49/162</span>&mdash;<span itemprop="Description">Pad sawing devices</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23D49/165</span>&mdash;<span itemprop="Description">Pad sawing devices with means to move the saw blades in an orbital path</span>
+            <meta itemprop="Leaf" content="true">
+            
+            <meta itemprop="FirstCode" content="true">
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B</span>&mdash;<span itemprop="Description">PERFORMING OPERATIONS; TRANSPORTING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23</span>&mdash;<span itemprop="Description">MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23D</span>&mdash;<span itemprop="Description">PLANING; SLOTTING; SHEARING; BROACHING; SAWING; FILING; SCRAPING; LIKE OPERATIONS FOR WORKING METAL BY REMOVING MATERIAL, NOT OTHERWISE PROVIDED FOR</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23D51/00</span>&mdash;<span itemprop="Description">Sawing machines or sawing devices working with straight blades, characterised only by constructional features of particular parts; Carrying or attaching means for tools, covered by this subclass, which are connected to a carrier at both ends</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">B23D51/16</span>&mdash;<span itemprop="Description">Sawing machines or sawing devices working with straight blades, characterised only by constructional features of particular parts; Carrying or attaching means for tools, covered by this subclass, which are connected to a carrier at both ends of drives or feed mechanisms for straight tools, e.g. saw blades, or bows</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">Y</span>&mdash;<span itemprop="Description">GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">Y10</span>&mdash;<span itemprop="Description">TECHNICAL SUBJECTS COVERED BY FORMER USPC</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">Y10T</span>&mdash;<span itemprop="Description">TECHNICAL SUBJECTS COVERED BY FORMER US CLASSIFICATION</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">Y10T83/00</span>&mdash;<span itemprop="Description">Cutting</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">Y10T83/929</span>&mdash;<span itemprop="Description">Tool or tool with support</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">Y10T83/9457</span>&mdash;<span itemprop="Description">Joint or connection</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">Y10T83/9473</span>&mdash;<span itemprop="Description">For rectilinearly reciprocating tool</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">Y10T83/9481</span>&mdash;<span itemprop="Description">Tool is single element reciprocable along elongate cutting edge [e.g., saw blade, etc.]</span>
+            <meta itemprop="Leaf" content="true">
+            <meta itemprop="Additional" content="true">
+            
+          </li>
+          </ul>
+      </li>
+      </ul>
+  </section>
+
+  <section itemprop="abstract" itemscope>
+    <h2>Abstract</h2>
+    <aside>Translated from <span itemprop="translatedLanguage">Chinese</span></aside>
+    <div itemprop="content" html><abstract mxw-id="PA106987620" lang="ZH" load-source="patent-office"> <div class="abstract"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一种往复切割工具，包括沿第一方向作往复运动的滑块。</span> A reciprocating cutting tool comprising a first direction as the reciprocating slide.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一个杆可沿第一方向与滑块一起运动并被此滑块支承得使此杆可沿不同于此第一方向的一个第二方向运动。</span> A bar along a first direction and movement of the slider along the slider bar may be supported so as to make this a direction different from the first direction, this second direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一个刀具安装在该杆上。</span> A tool mounted on the rod.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">此杆可沿第二方向作独立于该滑块第一方向上运动的运动。</span> This rod can be used independently of the movement of the slide movement in a first direction along a second direction.</span> </div> </abstract></div>
+  </section>
+
+  <section itemprop="description" itemscope>
+    <h2>Description</h2>
+    <aside>Translated from <span itemprop="translatedLanguage">Chinese</span></aside>
+    <div itemprop="content" html><div mxw-id="PDES57232811" lang="ZH" load-source="patent-office" class="description"> <invention-title lang="ZH"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">往复切割工具</span> Reciprocating cutting tool</span> </invention-title> <technical-field> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">技术领域</span> FIELD</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">本发明涉及如竖锯那样的往复切割工具，它具有用于切割工件的一种往复运动的锯条。</span> The present invention relates to a reciprocating jig saw as the cutting tool, a saw blade for cutting a workpiece having a reciprocating motion.</span> </p> </technical-field> <background-art> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">背景技术</span> Background technique</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">公知的竖锯具有一个电动马达即一个动力源及将马达的旋转转变为锯条的直线往复运动的一个转换机构。</span> Known jigsaw i.e. an electric motor having a power source and the motor rotation conversion mechanism for converting a linear reciprocating motion of the blade.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">日本延迟公开实用新型其公开号4-54801公开了一种竖锯的公知运动转换机构，下面将参照相应于该实用新型图1的本申请附图6对此机构进行介绍。</span> Japanese Laid-Open Utility Model Publication No. 4-54801 which discloses a well-known motion conversion mechanism for a jigsaw, will now be described with reference to the present invention corresponding to FIG. 1 of this application mechanism 6 figures.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">如图6所示，竖锯100具有带一个曲柄盘104的运动转换机构101。</span> 6, a jigsaw 100 includes a motion converting mechanism 101 with crank disk 104.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">曲柄盘104由电动马达102经中间齿轮103被驱动转动。</span> Crank disc 104 by an electric motor 102 via an intermediate gear 103 is driven to rotate.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">导滚105被安装于曲柄盘104上偏离该盘旋转中心的一个位置上。</span> Guide roller 105 is mounted in a position offset from the rotation center of the upper disc crank disc 104.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因比，导滚105环绕曲柄盘104的旋转轴线转动，而且导滚105还可环绕自身的轴线旋。</span> Around the axis of rotation of the crank disc 104 than by the guide roller 105 is rotated, and guide roller 105 may spin around the axis itself.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">导滚105与制作在滑块107上的水平接合槽连接，滑块107则被固定于一个竖直杆106上。</span> The guide roller 105 and making the level of the slider engaging groove 107 is connected to the slider 107 were fixed to a vertical rod 106.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，在曲柄盘104旋转时，导滚105就沿滑块107的水平槽运动，并在此同时将竖直方向的往复运动传递给杆106。</span> Accordingly, when the crank disc 104 rotates, the guide roller 105 moving along the horizontal slot 107 of the slider, and at the same time the vertical reciprocating movement is transmitted to the lever 106.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">杆106被一杆夹持器108沿垂直方向可滑动地支承着。</span> Slidably supporting the rod 106 is a holder 108 in the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">杆夹持器108有与竖锯100本体连接的上端，此上端可借助于枢轴108a作绕一根水平轴线的枢转运动。</span> Bar clamp 108 has an upper end connected to the body of the jigsaw 100, the upper end 108a by means of a pivot about a horizontal axis for pivotal movement.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">压缩弹簧109用于在切割运作期间，将杆夹持器108的下端部朝与竖锯100的运动方向(朝前)相反的朝后方向推压。</span> The compression spring 109 is used during the cutting operation, the lower end portion of the rod holder moving direction (forward) and 108 toward the jigsaw 100 toward the rear direction opposite to the pressing.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在中间齿轮103上安装一凸轮盘110。</span> A cam plate 110 mounted on the intermediate gear 103.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一个支承辊111被相连于凸轮盘110，因而在凸轮盘110转动时使支承辊111沿水平方向(前后方向)作往复运动。</span> A backup roller 111 is connected to the cam plate 110, and thus the supporting roller 111 in the horizontal direction (longitudinal direction) when the rotation of the cam plate 110 to reciprocate.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，安装在杆106下端的锯条B被支承辊111、克服压缩弹簧109的偏压力而朝前压。</span> Thus, the rod 106 mounted on the lower end of the blade B is the backup roller 111, against the biasing force of the compression spring 109 and the forward pressure.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在此方案中，由于杆夹持器108由枢轴108a以可枢转方式支承着，所以锯条B可以在切割操作期间沿垂直方向和前后方向上都作往复运动而不发生扭转。</span> In this scenario, since the torsion bar holder 108 to be supported pivotally by a pivot 108a, the blade B can be moved so that the vertical and longitudinal directions to reciprocate during the cutting operation without the risk.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此而使切割操作能被有效地进行。</span> Therefore the cutting operation can be performed efficiently.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">但是，在公知的竖锯100中仍有问题存在。</span> However, there are still well-known in the jigsaw 100 issues.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">由于滑块107与杆106一起作朝前、朝后的枢转，必须在滑块107的水平接合槽与导滚105之间提供间隙来允许滑块107相对导滚105倾斜。</span> Since the slider 107 together with the rod 106 as forward, rearward pivoting, must be engaged between the groove 105 and the guide roller 107 in the horizontal sliders provide clearance to allow the slider 107 relative to the guide roller 105 is inclined.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">由于有此间隙的存在，导滚105不可能沿着滑块107的该接合槽平稳运动。</span> Due to the presence of this gap, the guide roller 105 can not engage the smooth movement along the groove 107 of the slider.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">这就是说，在导滚105与滑块107之间沿垂直方向上有间隙。</span> That is to say, a gap between the upper guide roller 105 and the slider 107 in the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">结果就会在转换机构101中产生震动而使操作者疲乏，其原因是操作者必须在切割操作时握住竖锯100。</span> Results will vibrate operator fatigue in the conversion mechanism 101, which is the reason the operator must hold the jigsaw 100 during the cutting operation.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">另一种公知的竖锯转换机构公开于美国专利US3236111之中。</span> Another known jigsaw converting mechanism disclosed in the American Patent No. US3236111.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">此转换机构也具有导滚和与导滚接合的滑块，从而使得滑块随着导滚的转动而沿垂直方向往复运动。</span> This conversion mechanism also has a guide roller and a guide roller engaging the slider, so that the rotation of the slider guide roll and reciprocate in the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">但其上安装一锯条的杆与此滑块连接，从而使杆可相对滑块沿前后方向作枢转运动。</span> However, a saw blade mounted on a slider which is connected to this rod, so that the rod can slide back and forth direction relative pivotal movement.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">此外，为了使此杆(或其上安装的锯条)沿前后方向作往复运动，滑块在沿垂直方向运动时还要同时沿前后方向运动。</span> Further, in order to make this rod (or the blade mounted) is reciprocated forward and backward directions, while also slide along the longitudinal direction during vertical motion.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，在切割操作期间，滑块会通过锯条和杆接受沿相对导滚枢转或倾斜方向的来自工件的反作用。</span> Thus, during the cutting operation, the slider relative to the guide roller along the receiving counter pivoting or tilting direction from the workpiece by the blade and the rod.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">其结果是会使导滚不能平稳地相对滑块运动。</span> As a result, the guide rollers will not slide smoothly relative movement.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">发明概述因此，本发明的一个目的是提供一种能减少切割操作期间噪音和震动的往复运动切割工具。</span> Summary of the Invention It is therefore an object of the present invention is to provide a cutting operation to reduce noise and vibration during reciprocation of the cutting tool.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">根据本发明的往复运动切割工具，具有一个能沿第一方向作往复直线运动的滑块。</span> The reciprocation of the cutting tool of the present invention, having a slider for reciprocating linear motion in the first direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一根杆可跟随滑块沿第一方向运动并被此滑块支承，从而使该杆可沿不同于第一方向的一个第二方向运动。</span> A rod may follow the movement of the slider in the first direction and the slider bearing, so that the lever in a second direction different from the first direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一个刀具可被安装于该杆上，而此杆可沿第二方向作与滑块沿第一方向的运动无关的运动。</span> A tool can be attached to the rod, and this rod can be made independent of the motion of the slider in the first direction of movement in the second direction.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">最好第一方向是垂直方向，而第二方向是水平方向即前后方向。</span> Preferably, the first direction is a vertical direction and a second direction is a horizontal direction, i.e., front-rear direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">刀具在切割期间可沿朝前方向运动而切割工件。</span> The cutter may cut the workpiece along a forward movement direction during cutting.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">由于该杆可沿第二方向作独立于滑块沿第一方向运动的运动，滑块可以只沿第一方向运动，因而可不沿第二方向运动或倾斜。</span> Since the rod may be independent of the movement of the slider in the first direction of movement in the second direction, only the slider in the first direction, the second direction and thus may not be moved or tilted.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此、在滑块和如运动转换机构那样的驱动机构之间可不需有间隙存在。</span> Thus, between the slider and a drive mechanism such as a motion converting mechanism without a gap that may exist.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，与有间隙的情况相比，震动和噪音可大大地减小。</span> Therefore, as compared with the case where a gap, vibration and noise can be greatly reduced.</span> </p> </background-art> <description-of-drawings> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">附图说明</span> BRIEF DESCRIPTION</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">图1是展示第一实施例竖锯正面部分内部结构的侧视图；图2是沿图1之(2)-(2)线剖切的剖视图，它展示支承一滑块的结构及杆在滑块上的支承结构；</span> FIG. 1 is a side view showing part of an internal structure of a first embodiment of a jigsaw front embodiment; FIG. 2 of FIG. 1 taken along (2) - a cross-sectional view (2) of the cut line, which shows the support structure and a slider sliding rod block on the support structure;</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">图3是沿图1之(3)-(3)线割切的剖视图，它展示通过一套筒支承杆的结构；图4是展示第二实施例竖锯正面部分内部结构的侧视图；图5是沿图4之(5)-(5)线剖切的剖视图，它展示用套筒支承杆的结构；和图6是展示一种公知竖锯正面部分内部结构的侧视图，此图相应于日本实用新型延迟公开公开号5-54801申请文件的图1。</span> FIG. 3 is taken along the 1 (3) - a cross-sectional view (3) mutilation line, which shows the sleeve by a support rod structure; FIG. 4 is a side view showing part of the internal structure of a second embodiment of the jigsaw front; FIG. 4 of FIG. 5 along (5) - a cross-sectional view (5) of the cut line, which shows structural support rod sleeve; and FIG. 6 is a side view of part of an internal structure of a known jigsaw front, this corresponding to FIG. delay in Japanese utility Model Laid-open Publication No. 5-54801 Figure 1 of the application documents.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">本发明的详细说明所提供的如竖锯那样的往复运动切割工具，可包括沿大体上垂直方向、相对被切工件作往复直线运动的一个滑块。</span> The jigsaw reciprocating movement as the detailed description of the present invention there is provided a cutting tool comprising a substantially along a vertical direction relative to the workpiece is cut as a reciprocating linear motion slider.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一根杆可随滑块沿垂直方向运动并与此滑块相连，从而使此杆可沿水平方向即前后方向运动。</span> A rod may slide in a vertical direction with the slider and connected thereto, so that the lever back and forth along the horizontal direction, i.e. the direction of movement.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一根锯条可安装在该杆上，从而使得随着切割工具、或锯条向前压向工件时使该工件可被锯条切割。</span> A blade may be mounted on the rod, such as a cutting tool or saw blade is pressed forwards towards the workpiece so that the workpiece can be cut blade.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">该杆可作独立于滑块垂直运动的前后向运动。</span> The rod may slide back and forth for independent vertical movement of the forward motion.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，由于在垂直方向上无需间隙，采用诸如可将马达转动转换成该滑块往复运动的运动转换机构的一种普通驱动机构，就可实现该滑块的平稳运动。</span> Therefore, since no gap in the vertical direction, such as may be employed to convert rotation of a conventional motor drive mechanism of the motion conversion mechanism of the reciprocating slide, you can achieve a smooth movement of the slider.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">从而可大大减少切割运作期间的噪音、振动，使操作者不会那样疲乏。</span> Which can greatly reduce the period of operation of cutting noise and vibration, so that the operator will not be as tired.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">切割工具，即锯条最好可以沿朝前方向运动以便在切割动作期间将锯条朝工件压。</span> The cutting tool, i.e., the blade may preferably move in the forward direction in order to press the workpiece toward the saw blade during the cutting operation.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在本实施例中，一个导向块可以给滑块提供导向，从而使滑块可在垂直方向上沿该导向块滑动。</span> In the present embodiment, a guide block may be provided to guide the slider, so that the slider can be slid along the guide block in the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">导向块可用来防止滑块相对垂直方向倾斜。</span> Guide block used to prevent the slider is inclined relative to the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，导向块确保滑块只沿垂直方向运动。</span> Thus, the guide block ensures slide movement only in the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">导向块最好可以固定于切割工具内。</span> Preferably the guide block may be fixed within the cutting tool.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在本实施例中，滑块可有对置的大体沿平行于垂直方向延伸的侧缘。</span> In the present embodiment, the slider may have a substantially opposite direction parallel to the side edges extending in the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一对导向槽可被制作于导向块内，它们实际无间隙地接纳滑块的侧缘。</span> A pair of guide grooves may be made in the guide block without a gap they actually receive the side edges of the slider.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，可以可靠地防止滑块相对垂直方向沿前后方向运动、或倾斜。</span> Thus, it is possible to reliably prevent the slider in the vertical direction relative to the longitudinal direction, or tilting.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">其结果就使滑块沿垂直方向被精确和可靠地导向，从而使振动和噪音被进一步减小。</span> As a result, the slider can be accurately and reliably guided in the vertical direction, so that vibration and noise is further reduced.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在一个实施例中，该杆可被滑块支承，从而使杆可沿前后方向作枢轴转动。</span> In one embodiment, the slide rod may be supported such that the front and rear direction lever to pivot.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">该杆最好通过一个支承销作相对滑块的枢轴转动。</span> The rod is preferably made by a slider opposing pivot support pin.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">滑块最好还包括一对以可转动方式支承支承销的轴承。</span> Preferably the slider further comprising a pair of bearings rotatably supporting the support pin.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">滑块的对置侧缘可以包括轴居。</span> The opposite side edges of the slider may include a shaft home.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，滑块可以更平稳地相对导向块往复运动。</span> Thus, the slider can be more smoothly reciprocate relative to the guide block.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">该杆最好可被制止环绕其纵轴线转动，从而使得可以可靠地防止该杆的转动及防止安装在杆上的锯条的扭转。</span> The stop lever is preferably can be rotated about its longitudinal axis, thereby making it possible to reliably prevent rotation of the rod and prevent torsion rod is mounted in the blade.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此可以确实防止锯条从期望的切割轨迹上作不想要的偏斜。</span> It is possible to reliably prevent the saw blade as unwanted deflection from the desired cutting path.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">为此而可配置一个固定套筒，套筒有一个该杆可延伸穿过的支承孔；最好在此杆与支承孔内壁间可以设置一个间隙，以便允许杆相对套筒沿前后方向运动。</span> For this purpose may be arranged a fixed sleeve, the sleeve having a support rod extending through the aperture; preferably the lever support hole walls may be provided with a gap, so as to allow the front and rear direction relative to the sleeve along the rod.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">套筒的支承孔可以是非圆形状，而该杆可以有与该支承孔形状相应的非圆形外周面。</span> The bearing bore of the sleeve may be non-circular shape, and the rod may have a support hole corresponding to the shape of non-circular outer circumferential surface.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在一个实施例中，套筒的支承孔及该杆的外周面可以是矩形形状。</span> In one embodiment, the sleeve support hole and an outer peripheral surface of the bar may be rectangular in shape.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">切割工具还可包括一个马达及一个将马达转动转变为滑块直线往复运动的运动转换机构。</span> The cutting tool may further comprise a motor and a motor rotational motion converting mechanism into a linear reciprocating motion of the slider.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">运动转换机构可以包括一个可由马达驱动转动的曲柄盘。</span> A motion conversion mechanism may include a crank disk rotatably driven by the motor.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">导滚可安装在曲柄盘上，此导滚可有一偏离曲柄盘旋转轴线的导滚轴线，从而使此导滚环绕曲柄盘旋转轴线旋转。</span> The guide roller may be mounted on the crank disk, the guide roller may have a line guide roller a rotational axis offset from the crank disk, so that this guide roller around the axis of rotation of the crank disc.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在滑块上可以形成一个接合槽，并使该槽与导滚接合。</span> May be formed on the slider engaging a groove, and engaging the groove with the guide roller.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">其接合槽最好可以大体上沿水平方向延伸。</span> Which may preferably be substantially engaging grooves extending in the horizontal direction.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">由于滑块只能沿垂直方向运动而不沿前后方向运动或倾斜，该导滚可被设计得沿垂直方向相对滑块的接合槽大体上没有间隙。</span> Because the slider can not tilt in the longitudinal direction or in the vertical direction, the guide roller can be designed substantially without clearance in the vertical direction relative to the slider engaging groove.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，由于该导滚对接合槽的沿垂直方向对置的内壁冲击而产生的噪音和振动可被大大地减小。</span> Therefore, noise and vibration due to the impact on the inner walls of the guide roller in the vertical direction facing the engagement groove produced can be greatly reduced.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在一个实施例中，一个支承辊可以沿朝前方向接触锯条，并可在滑块沿垂直方向作往复运动的同时沿前后方向作往复运动。</span> In one embodiment, a backup roller may contact the blade in the forward direction, and while the slide is reciprocated to reciprocate in the vertical direction along the front-rear direction.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">上面公开的各个附加特点和方法步骤在下面可以单个地或与别的特征和方向步骤结合在一起来利用，以便提供改进的往复运动切割工具、设计方法和使用这样的往复切割工具。</span> Each additional features and method steps disclosed above may be below or in combination with other single feature and direction steps utilized together in order to provide an improved cutting tool reciprocation, design methods and using such reciprocating cutting tools.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">下面结合附图详细介绍示范组合多个附加特点和方法步骤的本发明推荐实施例。</span> The following detailed description of the present invention is a combination of a plurality of additional exemplary features and method steps in conjunction with the accompanying drawings of the preferred embodiment.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">这种详细介绍只是用来给本领域的普通技术人员提供实践本发明原则之推荐方面的更具体的细节，而不是对本发明基本原则的限制。</span> Such details are only used to those of ordinary skill in the art to provide more specific details of the practice of the principles recommended aspect of the invention, not limitation of the basic principles of the invention.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">只有权利要求才能确定本发明的基本范围。</span> Only the claims can ascertain the essential scope of the invention.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，在下面详细说明中公开的特征和步骤的组合在更广泛的意义上来说，并非是实施本发明所必须的，它们只是打算用来具体地介绍本发明的示范性样例而已。</span> Therefore, combinations of features and steps disclosed in the following detailed description, in a broader sense, embodiments of the present invention is not necessary, but they are particularly intended for exemplary description of the present invention, but the sample.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">下面结合图1-3介绍往复切割工具第一实施例。</span> Described below in connection with FIGS. 1-3 a first embodiment of a reciprocating cutting tool.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在本实施例中，往复切割工具可以是竖锯1，竖锯1的正面部分展示于图1的垂直方向割视图。</span> In the present embodiment, the reciprocating cutting tool may be a jigsaw front portion 1, a jigsaw 1 is shown in the vertical direction in FIG. 1 cut view.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">竖锯1是有空心壳体2及中空齿轮箱4。</span> Jigsaw 1 is a hollow housing 2 and the hollow gear box 4.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">齿轮箱4与壳体2的前端(从图1上看是左端)相连。</span> Gear box 4 is connected to the front end of the housing 2 (FIG. 1 viewed from the left end).</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">壳体2有大体上呈圆柱的形状，它可以作为用于操作员在切割运作期间把握的抓握部分。</span> Housing 2 has a substantially cylindrical shape, it can serve as a grip portion during the cutting operation of the operator to grasp.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">作为驱动源的电动马达3被置于壳体2内，它可以具有延伸入齿轮箱体4内的一根输出轴3a。</span> A drive source an electric motor 3 is disposed within the housing 2, it may have an output shaft 3a that extends into the gear housing 4.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">可将一个风扇连接在输出轴3a上，它用来使马达3冷却。</span> A fan may be connected to the output shaft 3a, which is used to cool the motor 3.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">缓冲板6可被连接在壳体2的前端内壁上而环绕着风扇5。</span> A buffer plate 6 may be attached to the front end wall of the housing 2 surrounding the fan 5.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">缓冲板可以在壳体2内产生一受控的冷却空气流。</span> Buffer plate can be controlled to produce a flow of cooling air in the housing 2.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">输出轴3a可通过轴承7以可转动方式由齿轮箱4的内壁支承。</span> 3a can output shaft 7 is rotatably supported by the inner wall of the gear box 4 via a bearing.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">齿轮3b制作在输出轴3a的前端，它可以与中间齿轮8啮合。</span> 3b fabricated gear output shaft 3a of the front end, which can engage with the intermediate gear 8.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">中间齿轮8由固紧于齿轮箱4内壁的支承轴9可转动地支承。</span> An intermediate gear support shaft 8 fastened to the inner wall 9 of the gearbox 4 is rotatably supported.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">可在中间齿轮8的前表面(在图1上看为左面)上与该面成一体地制作成第一偏心突台8a。</span> To be made into the first eccentric boss 8a at the front surface of the intermediate gear 8 (as viewed in FIG. 1 left) on the surface integral.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">第二偏心突台8b可与中间齿轮8的后表面(从图1上看为右面)成一体制作在此后表面上。</span> The second eccentric boss 8b and the rear surface of the intermediate gear 8 (as viewed from the right in FIG. 1) integrally formed on the surface thereafter.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">第一、二偏心突台8a、8b中的每一个均可有一个与中间齿轮8旋转轴线偏离的轴心线。</span> First and second eccentric boss 8a, 8b in each of which may have an axis of rotation of the axis 8 and offset from the intermediate gear.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">而且，第一、二偏心突台8a、8b两者的轴心线可相对中间齿轮8轴心线安置在同一侧。</span> Further, the first and second eccentric boss 8a, 8b movable relative to both the axis of the intermediate gear 8 is disposed on the same side of the axis line.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">换言之，第一、二偏心突台8a、8b的轴心线可被安置在中间齿轮8的相同的半径上。</span> In other words, the first and second eccentric boss 8a, 8b of the axis may be disposed on the same radius of the intermediate gear 8.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">平衡板11以可转动方式装配在第一偏心突台8A上，在平衡板11下部上制作一个细长的导向槽11a。</span> Balance board 11 to fit rotatably on the first eccentric boss 8A, making an elongated guide groove 11a on the lower plate 11 balance.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在导向槽11a中以可滑动方式插入一个导向销13，销13被固定于齿轮箱4的内壁。</span> In the guide groove 11a to be slidably inserted into a guide pin 13, the pin 13 is fixed to the inner wall 4 of the gearbox.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，随着中间齿轮8的转动，第一偏心突台8a环绕着中间齿轮8的旋转轴线转动，从而使平衡板11环绕导向销13的轴线作往复侧向枢转，并且还沿垂直方向往复运动。</span> Accordingly, as the intermediate gear 8 rotates, the first eccentric boss 8a surrounds the rotational axis of the intermediate gear 8, so that the balance plate 11 around the axis of the guide pin 13 is laterally reciprocal pivoting, and also reciprocate in the vertical direction motion.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">由于在竖锯1的切割运作期间平衡板11沿垂直方向的运动和侧向的枢转运动，就可对中间齿轮8提供一种对下面要介绍的导滚12之曲柄运动的平衡。</span> Since during the cutting operation of the jigsaw 1 is the balance plate 11 along the lateral movement and pivotal movement in the vertical direction, it can provide an intermediate gear 8 to introduce the following pair of guide rollers 12 of the movement of the crank balance.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">结果就使竖锯1的振动和噪音明显减小。</span> The result is that the vibration and noise of the jigsaw 1 is significantly reduced.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">凸轮盘30以可转动方式装配在第二偏心突台8b上，它也随着中间齿轮8转动而沿垂直方向和沿侧向作往复运动。</span> The cam plate 30 is rotatably fitted onto the second eccentric boss 8b, it rotates with the intermediate gear 8 in the vertical direction and laterally reciprocate.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">下面介绍凸轮盘30的操作情况。</span> The following describes the operation of the cam disc 30.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">曲柄盘10可被固定于第一偏心突台8a的前端并跟着中间齿轮8转动。</span> Crank disk 10 may be fixed to the front end of the first eccentric boss 8a and rotates along with the intermediate gear 8.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一个导滚12以可转动方式安装在曲柄盘10的正面并具有偏离曲柄盘10或中间齿轮8旋转轴线的旋转轴线。</span> A guide roller 12 rotatably mounted on the front surface of the crank disk 10 and having an axis offset from the axis of rotation of the crank disk 10 or the intermediate gear 8 rotates.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">而且，导滚11的旋转轴线可相对中间齿轮8的旋转轴线与第一偏心突台8a的旋转轴线对置。</span> Further, the guide roller rotational axis 11 relative to the rotational axes of the first eccentric boss 8a of the intermediate gear 8 therebetween.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">换言之，导滚11的旋转轴线被安排得与第一偏心突台8a的轴线相对置。</span> In other words, the rotational axis of the guide roller 11 is arranged to the axis of the first eccentric boss 8a opposed.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">导滚11可与滑块14内的水平槽14c接合。</span> Guide roller 11 horizontally within the groove 14c of the slider 14 engages.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">水平槽14c可有大体呈U形的截面形状。</span> Horizontal groove 14c may have a substantially U-shaped cross-sectional shape of.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">滑块14被由螺钉16固定于齿轮箱4前壁上的导向块15以沿垂直方向可滑动的方式支承。</span> 14 to the slider 15 in the vertical direction is slidably supported in the guide block 16 by a fixing screw in the front wall of the gear box 4.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">参看图2，此图展示导向块15的支承结构。</span> Referring to Figure 2, this figure shows the guide block 15 of the support structure.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">如图2所示，滑块14可有一对沿着滑块14两侧边(从图2上看为沿着上、下侧)延伸的侧缘14a。</span> 2, the slider 14 may be a pair of side edges 14a extending along both side edges of the slider 14 (as viewed from FIG. 2 along the upper and lower sides).</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">从另一方面看，导向块15有一对制作在导向块15两侧部并且彼此沿侧向对置的导向槽15a滑块14的侧缘14a可分别被安置在各自的导向槽15a中，而且侧缘14a和导向槽15a的尺寸可被作得使滑块14相对导向块15作沿垂直方向的无间隙滑动。</span> On the other hand, the guide block 15 has a pair of guide portions on both sides of the production block 15 laterally opposed to each other and the guide groove 15a of the slider side edges 14a 14, respectively, may be disposed in the respective guide grooves 15a, and size of the side edges 14a and the guide groove 15a may be made available so that the guide block 14 relative to the slider 15 for sliding without clearance in the vertical direction.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此在马达3开始转动后，中间齿轮8就转动，曲柄盘10则跟随中间齿轮8转动而使得导滚12环绕支承轴9的轴线、即中间齿轮8的旋转轴线旋转。</span> Therefore, after the motor 3 starts to rotate, the intermediate gear 8 rotates, the crank disk 10 follows the rotation of the intermediate gear 8 such that the guide roller 12 around the axis of the support shaft 9, i.e., the intermediate gear rotation axis 8.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">导滚12运动的沿垂直方向的分量可用于沿垂直方向移动滑块14，其沿水平方向的分量由于导滚12沿滑块14的水平槽14c运动而可不用来使滑块14沿水平方向运动。</span> Guide roller 12 in the vertical direction component of the motion may be used to move the slider 14 in the vertical direction, the horizontal direction component which groove 14c due to the horizontal movement of the guide roller 14 along the slider 12 and the slider 14 may not be used in the horizontal direction motion.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">结果就可使滑块14随着导滚12转动而沿垂直方向往复运动。</span> The results can guide the slider 14 with the rotation of the roller 12 to reciprocate in the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一根杆21可以被连接于滑块14，并在该杆21上安装一个锯条B。</span> A rod 21 may be connected to the slider 14, and a blade mounted on the rod 21 B.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因而锯条B也可以沿垂直方向往复运动。</span> Thus the blade B may be reciprocated in the vertical direction.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">参看图2，滑块14的下部可以有一对彼此沿侧向相对且沿垂直方向延伸的平行支承缘14b。</span> Referring to Figure 2, the lower portion of the slider 14 may have a pair of parallel support edges 14b opposing each other and extending laterally in the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">杆21可以有一个插入支承缘14b之间的上端21a。</span> 21 may have a rod inserted between the upper end of the support edge 14b 21a.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">上端21a被以可枢转方式支承在延伸于支承缘14b之间的一支承轴22上，从而使得杆21能够环绕支承轴22相对滑块14朝前后方向作枢轴转动。</span> The upper end 21a is pivotally supported on the supporting edge 14b extends between a support shaft 22, so that the rod 21 can be supported around the shaft 22 relative to slide 14 to pivot toward the rear direction.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">如图2、3所示，杆21可以是一个有方形截面的棱柱体。</span> 2 and 3, the rod 21 may be a prism with a square cross-section.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，上端21a可被支承在两支承缘14b之间，而且还与两支承缘以可滑动方式紧密地接触。</span> Thus, the upper end 21a may be supported between the support edges 14b, but also in close contact with the two support edges slidably.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，杆21能沿前后方向作枢轴转动而不会在环绕其纵轴的圆周方向有任何间隙。</span> Thus, the lever 21 can pivot without any gap in the circumferential direction about its longitudinal axis as the longitudinal direction.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">如图1所示，一套筒23可安装在齿轮箱4内，它可给杆21的下部提供导向。</span> 1, a sleeve 23 may be mounted within the gear case 4, a lower portion 21 which can be provided to the rod guide.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">如图3所示，套筒23可以有一个轴向孔23a。</span> 3, the sleeve 23 may have an axial bore 23a.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">轴向孔23a用于接纳杆21，并有矩形形状。</span> Axial bore 23a for receiving a rod 21, and has a rectangular shape.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">轴向孔23a沿前后方向的长度L1可大于杆21相应的侧边长度，从而可允许在杆21沿前后方向枢转时杆21相对套筒23运动。</span> Front-rear direction length L1 of the axial hole 23a may be larger than the length of the corresponding lateral rod 21, thereby allowing lever 21 pivoted around shaft 21 relative to the sleeve 23 along the movement.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">另一方面，轴向孔23a的沿侧向的长度L2基本上等于杆21相应侧边的长度而使得沿此侧方向不会出现间隙。</span> On the other hand, an axial hole 23a of the lateral length L2 is substantially equal to the length of the corresponding side bar 21 along the lateral direction such that a gap does not occur.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">控制辊24可通过垂直片簧25安装在齿轮箱4的前壁上，它将杆21朝后推压。</span> The control roller 24 may be pressed against the leaf spring 21 in the vertical gear box 25 mounted on the front wall 4, the rod will pass.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">片簧25的上端可以借助将导向块15固定于齿轮箱4前壁的螺钉16中的一个固定于齿轮箱4的前壁上。</span> The upper end of the leaf spring means 25 may be a front wall of the guide block 15 is fixed to the front wall of the gear box 4 is a screw 16 secured to the gear box 4.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">控制辊24可被连接在片簧25的下端。</span> The control roller 24 may be connected to the lower end 25 of the leaf spring.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，控制辊24总是接触杆21的前面而将一个合适的压力通过片簧25施加于杆21。</span> Thus, the control roller 24 always contacts the front rod 21 and a suitable pressure by the leaf spring 25 is applied to the rod 21.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，为了使杆21朝前作枢轴转动，必须如在下面要介绍的那样将一个克服片簧25偏压力的力施加于杆21上。</span> Accordingly, in order to make the lever 21 to pivot forwardly, as one must overcome to be described below the leaf spring 25 biasing force is applied to the rod 21.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">可将一个卡头26安装在杆21的下端，它可用来卡紧锯条B的上端。</span> A chuck 26 may be mounted at the lower rod 21, which can be used to clamp the upper end B of the blade.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">处于安装状态中的锯条B可穿过一导向板40向下延伸。</span> In the mounted state of the blade B may pass through a guide plate 40 extends downwardly.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">导向板40可以安装在齿轮箱4的下部。</span> The guide plate 40 may be installed in the lower gear box 4.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在切割操作期间，导向板40可以如图1所示那样用来放在工件W上。</span> During the cutting operation, the guide plate 40 as shown in Figure 1 can be used on a workpiece W.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">支承辊27可以放置于锯条B的后面，它用于周期性地将锯条B朝前推。</span> Support rollers 27 may be placed behind the blade B, which is used to periodically push the blade B forward.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">支承辊27以可转动方式支承在大体上呈J形的辊夹持器29的前端。</span> Support rollers 27 rotatably supported in the form of front end J-shaped roller holder 29 is substantially.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">辊夹持器29可以通过支承销28安装在齿轮箱4的下部，从而使得辊夹持器29能沿前后方向作枢轴转动。</span> The roller holder 29 via a support pin 28 may be mounted in a lower gear box 4, so that the roller holder 29 can be pivoted forward and backward directions.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">臂29a可从辊夹持器29上端朝后延伸、并通过一个连接在齿轮箱4上的橡胶套34进入齿轮箱4。</span> Arm 29a may extend from the upper end towards the roller nip 29, and is connected through a gear box 4 on the rubber sleeve 34 into the gear box 4.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在齿轮箱4内，凸轮盘30的下端可以与臂29a的后端上表面相对置。</span> In the gear box 4, the lower end of the cam plate 30 may be on the rear end surface opposed to the arm 29a.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">如前面所，凸轮盘30可随着中间齿轮8旋转而沿垂直方向和侧向作往复运动。</span> As previously, the cam plate 30 8 rotates with an intermediate gear may be reciprocated in the vertical direction and lateral direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一个挡块32从齿轮箱4的内壁延伸出来，它可用来与凸轮盘30下端前表面接触，以便防止凸轮盘30沿其厚度方向即朝前移动。</span> A stopper 32 extending from the inner wall of the gear box 4, it can be used in contact with the front surface of the lower end of the cam plate 30, i.e., in order to prevent the cam plate 30 is moved forward in its thickness direction.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">杠杆33可以安置在凸轮盘30的后侧，它可以由操作者操纵来调整支承辊27前后移动的行程。</span> Lever 33 may be disposed on the rear side of the cam disk 30, which can be manipulated by an operator to adjust the stroke movement of the support rollers 27 back and forth.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在图1中以剖视形式展示了杠杆33的一部分，此部分可有大体上为半圆状的截面。</span> In Figure 1 shows a portion of the lever 33 in the form of a cross-sectional view, this section may have a substantially semicircular cross section.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在图1所示状态中，杠杆33弧状侧面的一边缘可与臂29a的上表面接触而使臂29a不与凸轮盘30接触。</span> In the state shown in FIG. 1, the lever 33 may be curved side surface of an edge contact with the upper surface of the arm 29a of the arm 29a is not in contact with the cam disc 30.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，如图1所示那样，辊夹持器29不会沿反时针方向作枢轴转动。</span> Thus, as shown in Figure 1, the roller holder 29 does not pivot in the counterclockwise direction as.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此可以防止辊夹持器29从图1所示位置朝后运动。</span> It can be prevented roller holder 29 toward the rear from the position shown in FIG.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">其结果就是杆21只可以沿垂直方向往复运动，而且不会作沿前后方向的枢轴转动。</span> The result is that the rod 21 can reciprocate in the vertical direction, and the back and forth direction without pivoting.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">当操作者使杠杆33沿顺时针方向从图1所示位置转动时，杠杆33圆弧状侧面的该边缘就朝上运动，而其平侧面从垂直位置倾斜而被朝向下方。</span> When the operator rotates the lever 33 from the position shown in FIG. 1 in a clockwise direction, the lever 33 of the arcuate edge on the side of the upward movement, while the flat sides are inclined from the vertical downward position.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">结果使凸轮盘30的下端可与臂29a接触，从而使辊夹持器29转过一个大体上相应于杠杆33从图1所示位置所转过的角度。</span> With the result that the lower end of the cam plate 30 may contact the arm 29a, so that the roller holder 29 is rotated a corresponding substantially to the lever 33 is rotated from the angular position shown in FIG.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，杆21及锯条B既沿垂直方向又沿前后方向往复运动。</span> Thus, both the rod 21 and the blade B reciprocate in the front-rear direction and the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">当操作者将杠杆33从图1所示位置转过90°时，杠杆33的平侧面可大体上沿水平延伸，从而使辊夹持器29可转动的角度即支承辊27的前后行程可变成最大值。</span> When the operator lever 33 is rotated from the position shown in FIG. 90 °, the lever 33 may be substantially flat sides extending horizontally, so that the roller holder 29 is rotatably supported by an angle that is variable before and after the trip roller 27 to the maximum.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因而在杠杆33从图1所示位置转动时，凸轮盘30的下端就可以在凸轮盘30下端的向下运动期间将向下的压力施加于臂29a的上端。</span> Thus when the lever 33 is rotated from the position shown in FIG. 1, the lower end of the cam disc 30 can be lower during the downward movement of the cam plate 30 downward pressure is applied to the upper end of the arm 29a.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，臂29a可以响应随着中间齿轮8转动会周期性变化的凸轮盘30下端位置而向下运动。</span> Therefore, the arm 29a of the intermediate gear 8 may be responsive to rotation of the cam plate 30 may periodically change the position of the lower end of the downward movement.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此夹持器29就可以沿顺时针方向环绕支承销28作枢轴转动。</span> Thus the holder 29 can be branched in a clockwise direction around the pin 28 to pivot.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">结果就使支承辊27对锯条B施加一个压力来迫使锯条B克服控制辊24施加的偏压力而朝前作枢轴转动。</span> The result is that the blade support roller 27 pairs of pressure to force B is applied to a blade B against the biasing force applied by the control roller 24 to pivot forward.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在凸轮盘30下端朝上运动期间，臂29a也可追随此运动，这是因为控制辊24将锯条B朝后偏压，从而迫使夹持架29沿反时针方向作枢轴转动。</span> In the lower end of the cam plate 30 during upward movement of the arm 29a can follow this movement, because the control roller 24 biases the blade B toward the rear, thereby forcing the holding frame 29 in the counterclockwise direction to pivot.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">凸轮盘30的下端位置及导滚12的垂直位置可以随着中间齿轮8的旋转度而变化。</span> Lower end position of the cam disc 30 and the guide roll 12, the vertical position may vary with the rotation of the intermediate gear 8.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，锯条B沿垂直方向的运动和其朝前后方向的运动可以是同步的，从而使锯条B在其向上运动期间可朝前运动。</span> Therefore, the blade B in the vertical direction and the movement thereof toward the front-rear direction movement may be synchronized, so that the blade B during its upward movement may be movement forward.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">其结果就使锯条B能以支承辊27对锯条B所施加的压力有效地切割工件W。</span> As a result, the blade B causes the pressure energy to the blade support roller 27 pairs of B applied effectively cut the workpiece W.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在第一实施例中，曲柄盘10、导向滚12及滑块14则构成了用以将马达3的转动转换成锯条B往复运动的一个运动转换机构。</span> In the first embodiment, the crank disk 10, the guide roller 12 and the slider 14 constitutes a rotation of the motor 3 to convert into a blade B reciprocate motion conversion mechanism.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">下面介绍第一实施例的运作。</span> The following describes the operation of the first embodiment.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在马达3启动时，中间齿轮8及曲柄盘10就旋转。</span> When the motor 3 is started, the intermediate gear 8 and the crank disk 10 rotates.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">随着曲柄盘10的转动导滚12环绕支承轴9转动，从而使滑块14被导滚12转动的沿垂直方向的分量强制着沿垂直方向往复运动。</span> With the rotation of the guide roller 12 of the crank disc 10 is rotated around the support shaft 9, so that the guide roller 12 the slider 14 is rotated in the vertical direction component force in the vertical direction by the reciprocating motion.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此杆21和锯条B与滑块14一起沿垂直方向往复运动。</span> Thus the lever 21 and the slider 14 together with the blade B reciprocate in the vertical direction.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在操作者沿顺时针方向从图1所示位置转动杠杆33时，凸轮盘30随着中间齿轮28的转动而使支承辊27沿前后方向往复运动。</span> When the lever 33 is rotated from the position shown in FIG. 1 the operator in a clockwise direction, the cam plate 30 rotates with the intermediate gear 28 supported by the front roller 27 to reciprocate in direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在支承辊27朝前运动时，它克服控控制辊24的偏压力将锯条B朝前压，从而使杆21环绕支承销22朝前枢转。</span> When the support roller 27 moves forward, it overcomes the biasing force of the control roller 24 controls the pressure of the blade B forward, whereby the lever 21 around the supporting pivot pin 22 forward.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">另一方面，当支承辊27朝后运动时，控制辊24偏压杆21使之朝后枢转。</span> On the other hand, when the support rollers 27 moving rearward, the control roller 24 so as to bias rod 21 towards the rear pivot.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">其结果就使锯条B朝后运动。</span> As a result, the blade B causes the rearward movement.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在中间齿轮8转一圈期间，杆21沿垂直方向往复一个行程，而且还沿前后方向往复一个行程。</span> During the revolution of the intermediate gear 8, the rod 21 reciprocates in the vertical direction, a stroke, but also in a front-rear directions of the reciprocation stroke.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">由于第一、二偏心突台8a、8b彼此相隔180°，故杆21或锯条B可以在其朝下运动时朝后运动。</span> Since the first and second eccentric boss 8a, 8b from each other 180 °, so that the rod 21 or the blade B may move rearward as it moves downward.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在另一方面，杆21或锯条B可在朝上运动的同时还朝前运动。</span> In another aspect, the rod 21 or the blade B may move forward while further upward movement.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">其结果是，以锯条B的一部分考虑，锯条B可在顺时针方向上沿该垂直平面内的一基本椭圆轨迹运动，因而工件W可以被锯条B的复合往复运动切割。</span> As a result, a portion of the blade B is considered, the blade B can be a substantially elliptical trajectories of movement in the vertical plane in the clockwise direction, the workpiece W can be a composite blade B reciprocate cutting.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在切割操作期间，如图1所示竖锯1的导向板40被置于工件W上，而锯条B就被朝前压向工件W。</span> During the cutting operation, as shown in Figure 1 the guide plate 40 of the jigsaw 1 is placed on the workpiece W, and the blade B will be pressed forward toward the workpiece W.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在实际切割操作时，杆21因来自工件W的切割阻力及控制辊24的偏压力作用而向后移动。</span> In actual cutting operation, the lever 21 due to the cutting resistance from the workpiece W and the biasing force of the control roller 24 is moved rearward.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在第一实施例中，滑块14被导向块15支承成只能沿垂直方向运动。</span> In the first embodiment, the slider 14 is supported to the guide block 15 only in the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">杆21则被滑块14支承成能与滑块14沿垂直方向运动无关地沿前后方向作枢轴转动。</span> Were lever 21 supported to the slider 14 can be moved with the rotation of the slider 14 in the vertical direction independently of pivotal front-rear direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，滑块14不能沿前后方向运动即倾斜，从而使滑块14不能相对导滚12倾斜。</span> Thus, the slider 14 that is not inclined in the longitudinal direction, so that the slider 14 can not be inclined relative to the guide roller 12.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">结果就使实际上为导滚12与滑块14的水平槽14c垂直壁间间隙的导滚12与水平槽14c内表面间的间隙能被调整得尽可能的小。</span> The results actually causes the guide roller 12 and the horizontal groove 14 of the slider 12 and the guide roller gap between the horizontal groove surfaces 14c can be adjusted as small as possible the gap 14c vertical walls.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">这样导滚12就可以平稳地沿着水平槽14c运动，从而运动转换机构20的振动和噪音能被大大地减小。</span> Thus the guide roller 12 can smoothly moving along the horizontal groove 14c, so that vibration and noise of the motion converting mechanism 20 can be greatly reduced.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">结果，降低了操作者在切割操作期间的疲劳。</span> As a result, operator fatigue is reduced during the cutting operation.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">此外，由于滑块14借助侧缘14a被导向块15以沿垂直方向可滑动地支承，而且侧缘14a以无任何间隙的方式被导向块15的各个导向槽15a接纳，故能可靠地制止杆21环绕自身的轴线转动或扭动，杆21的抗扭转刚度可被增高。</span> Further, since the side edges 14a of the slider 14 is guided by means of a block 15 slidably supported in a vertical direction, and the side edges 14a without any clearance in the guide block 15a manner receiving respective guide grooves 15, it is possible to reliably stop lever 21 around the rotation axis itself or twisting, torsional rigidity of the anti-rod 21 can be increased.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，在切割操作期间不会引起锯条B旋转或扭转，因而可有效地防止所期望的切割轨迹出现不想要的偏斜。</span> Thus, during the cutting operation without causing twisting or rotation of the blade B, can be effectively prevented and thus a desired cutting path deflection occurs undesired.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">此外，杆21被制成具有方形截面形状的棱柱，其下部被插入套筒23的支承孔23a中。</span> Further, the lever 21 is formed having a square cross-sectional shape of a prism, which is inserted into the lower portion of the support hole 23a of the sleeve 23.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此更可靠地防止了杆21的转动，使杆21抗扭刚度得到进一步加强。</span> Thus more reliably preventing the rotation of the lever 21, so that the torsional stiffness of the rod 21 to be further strengthened.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因而能更精确地进行切割操作，并且可靠地防止了锯条的转动或扭曲。</span> Thus cutting operation can be performed more precisely, and reliably prevents rotation or twisting of the blade.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">上述实施例可以用各种方式加以改型。</span> The above embodiment may be modified in various ways.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">下面参照附图4、5对作为第一实施例改型之一的第二实施例的往复切割工具进行介绍。</span> 4 and 5 are described below with reference to the accompanying drawings as the reciprocal of the cut of the second embodiment of the modification of the first embodiment, one embodiment of the tool.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">第二实施例与第一实施例的不同之处仅在于滑块支承结构，在其它方面两者大体上是相同的。</span> The second embodiment is different from the first embodiment only in the slider support structure, in other aspects the two are substantially the same.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此在图4和5中与图1-3中相同的构件给予与图1-3中相同的标号。</span> Thus given the same reference numerals as in Figures 1-3 and 1-3 the same members in FIG. 4 and FIG. 5.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">如图4、5所示，第二实施例的竖锯50可以有包括一对圆柱形套筒52的滑块51。</span> As shown in FIG. 4 and 5, a second embodiment of the jigsaw 50 may have a slider 51 comprises a pair of cylindrical sleeve 52.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">圆柱形套筒52可制作于滑块51的下部，两圆柱套筒52的轴线相互对准。</span> The cylindrical sleeve 52 can be fabricated at the lower portion of the slider 51, are aligned with axes 52 of the two cylindrical sleeve.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">杆21的上端21a被插入套筒52之间。</span> The upper end 21a of the rod 21 is interposed between the sleeve 52.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">一个销53可穿过两套筒52及杆21的上端21a，从而使杆21可环绕支承销53沿前后方向相对滑块51作枢轴转动。</span> Pin 53 may pass through a sleeve 52 and two upper end of the rod 21 21a, so that the lever 21 rotatable about the support pin 53 longitudinal direction relative to the slider 51 to pivot.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">支承销53的两端可分别从各自的套筒52的端部向外延伸，并在支承销53的两端安装轴承54。</span> Both ends of the support pin 53 may extend from the respective ends of sleeve 52 outwardly, and a bearing 54 mounted on both ends of the support pin 53.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在支承销53两端上的轴承54可分别与各导向槽55a相接合。</span> Bearing 54 on both ends of the support pin 53 may respectively engage respective guide grooves 55a.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">导向槽55a被制作在导向块55中且可彼此对置。</span> Guide grooves 55a are opposed to each other and may be made in the guide block 55.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">导向块55以与第一实施例导向块15相同的方式借助螺钉16紧固于齿轮箱4的前壁。</span> The guide block 55 in the same embodiment as the first embodiment guide block 16 is fastened by means of screws 15 embodiment the gear box 4 of the front wall.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">轴承54与各自的导向槽55a以沿垂直方向可滑动方式接合。</span> Bearing 54 may be slidably engaged with the respective guide grooves 55a in a vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">支承销53可沿垂直方向平行地移动是由于轴承54是沿着对应的导向槽55a作移动。</span> Support pin 53 can be moved in parallel in the vertical direction due to the bearing 54 along the corresponding guide groove 55a for movement.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此滑块51和杆21可沿垂直方向往复运动。</span> Thus the slider 51 and the rod 21 may reciprocate in the vertical direction.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">对第二实施例竖锯50来说，曲柄盘10、导滚12和滑块51构成了将马达3的转动转变为杆21的往复运动的一个运动转换机构。</span> EXAMPLE second embodiment of the jigsaw 50, the crank disk 10, the guide roller 12 and the slider 51 constitute a rotation of the motor 3 into reciprocating motion of the rod 21 of a motion conversion mechanism.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在第二实施例中，导滚12也可随着曲柄盘10的转动而环绕支承轴9转动，滑块51则也可由于导滚12转动的垂直分量而沿垂直方向往复运动。</span> In the second embodiment, the guide roller 12 may be rotated with the crank disc 10 is rotated around the support shaft 9, the slider 51 can be reciprocated due to rotation of the guide roller 12 and the vertical component of the vertical direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">通过支承销53支承于滑块51上的杆21就能让杆21在前后向上往复摆动。</span> Support lever 53 via a supporting pin 51 on the slide 21 so that the lever 21 can be swung back and forth in the longitudinal direction.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，滑块51可以只是沿垂直方向往复运动但不沿前后方向运动，如公知的竖锯那样。</span> Thus, the slider 51 may reciprocate only, but not in the longitudinal direction, as is well known in the vertical direction as a jigsaw.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">结果就使第二实施例可获得与在第一实施例中所获得的相同的动作和效果。</span> The result is that the second embodiment to obtain the same actions and effects as those in the first embodiment is obtained.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">此外，由于滑块51是借助于支承销53两端上的轴承54来被导向块55支承的，故不会有环绕杆21轴线的旋转力或扭转产生。</span> Further, since the slider 51 by means of a bearing 54 on the support pin 53 to both ends of the support block 55 is guided, so that no rotational force around the axis of the rod 21 or the torsion is generated.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">而且由于杆21是具有方形截面的棱柱且被插入套筒23的支承孔23a(长方形孔)中，杆21本身也就与在第一实施例中一样地被防止转动。</span> And since the rod 21 is a prism having a square cross-section and the sleeve 23 is inserted into the support hole 23a (rectangular hole), the rod 21 itself is also prevented from rotation in the same manner as the first embodiment.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">因此，在切割期间锯条B不会被扭转，因此，可靠地防止了从所期望的切割轨迹产生不想要的偏斜。</span> Thus, during the cutting blade B it can not be twisted, thus reliably prevented from generating unwanted deflection of a desired cutting path.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">此外，锯条B由于与工件W摩擦所产生的温度升高也可以被限制得尽可能的低。</span> Further, since the temperature of the blade B and the workpiece W generated by the friction increase may be restricted as low as possible.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">第二实施例中也可以用各种方式来改型。</span> The second embodiment may be modified in various ways.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">例如，虽然在本实施例中轴承54是滚殊轴承，圆筒套或金属轴承也可用来替代此滚珠轴承。</span> For example, although in this embodiment the bearing 54 in the present embodiment is a special roller bearing, a cylindrical sleeve or a metal bearing may also be used instead of this ball bearing.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">此外，轴承54也可被省略，支承销53的两端可分别直接与各自的导向块55的接合槽55a接合。</span> In addition, bearing 54 may be omitted, both ends of the support pin 53 may be coupled to a respective guide block 55a directly engages the engagement groove 55.</span> </p> <p> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">此外，虽然在上述各实施例中的杆21有方形截面，但杆21也可用矩形截面或其它多边形截面，而且还可用圆形或椭圆形截面。</span> Furthermore, although in the above embodiment, the rod 21 has a square cross-section, but the lever 21 may also be other polygonal cross-section or a rectangular cross section, but also with a circular or elliptical cross section.</span> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">在任何情况下，套筒23的支承孔23a都可有沿前后方向被加长的形状。</span> In any case, the support hole 23a of the sleeve 23 along the longitudinal direction can be lengthened shape.</span> </p> </description-of-drawings> </div></div>
+  </section>
+
+  <section itemprop="claims" itemscope>
+    <h2>Claims (<span itemprop="count">10</span>)</h2>
+    <aside>Translated from <span itemprop="translatedLanguage">Chinese</span></aside>
+    <div itemprop="content" html><div mxw-id="PCLM50171071" lang="ZH" load-source="patent-office" class="claims">
+    <div class="claim"> <div num="1" class="claim"> <div class="claim-text"> <span class="notranslate">
+    <span class="google-src-text" style="direction: ltr; text-align: left">1.一种往复切割工具(1、50)，它包括产生旋转输出的马达(3)，旋转输出用来驱动一个刀具(B)沿一个轨道轨迹相对于工件(W)运动；以及一个与马达(3)连接的运动转换机构，其特征在于，还包括：一个滑块(14，51)，它与该运动转换机构相连或包括于其内，在马达(3)启动时，滑块(14、51)在一个第一平面内作直线往复运动，但在基本上与第一平面垂直的一个第二平面内基本上不运动，以及一个与滑块(14、51)以枢轴方式连接的刀具安装轴(21)，其中刀具安装轴(21)在第一、二平面内作往复运动，由此而在切割运作期间在该第二平面内产生刀具(B)沿轨道运行的切割运动；其中，滑块(14，51)可滑动地接纳于导向块(15，55)中，导向块(15，55)固定地连接在切割工具(1，50)的壳体(2)中；其中，滑块(14，51)可相对于导向块(15，55)在第一平面内滑动，但导向块(15，55)防止滑块(14</span>A reciprocating cutting tool (1,50), comprising a motor (3) generates a rotational output for driving a rotary output tool (B) along a rail track relative to the workpiece (W) movement; and a motor (3) motion conversion mechanism coupled, characterized in that, further comprising: a slider (14,51), which is connected to or included therein the motion converting mechanism, when the motor (3) starts, the slider (14 , 51) for reciprocating movement in a first plane, but substantially does not move substantially within a second plane perpendicular to the first plane, and a pivotally connected with a slider (14,51) of the tool mounting shaft (21), wherein the tool mounting shaft (21) reciprocates within the first and second plane, the resulting cutting tool (B) of the cutting movement operation along the track in the second plane during the cutting operation; wherein the sliders (14,51) slidably received in the guide block (15,55), the guide block (15,55) is fixedly connected to the cutting tool housing (1, 50) (2); wherein , sliders (14,51) movable relative to the guide block (15, 55) slidable in a first plane, but the guide block (15,55) to prevent the slider (14</span><span class="notranslate"><span class="google-src-text" style="direction: ltr; text-align: left">51)在第二平面内倾斜或振动；其中，滑块(14，51)包括相对的侧缘(14a)，所述侧缘基本在第一平面内彼此相对，并平行于滑块(14，51)的移动方向而延伸；并且其中，导向块(15，55)进一步包括一对导向槽(15a)，该导向槽接纳滑块(14，51)的各个侧缘(14a)，并且侧缘与导向槽之间基本没有间隙。</span>
+    51) inclined or vibrated in a second plane; wherein the slider (14,51) includes opposing side edges (14a), said side edges substantially opposite to each other in a first plane and parallel to the slider (14, 51) extending in the movement direction; and wherein the guide block (15,55) further comprises a pair of guide grooves (15a), the respective side edges of the guide groove receiving the slider (14,51) of (14a), and the side edges between the guide groove and substantially no gap.
+    </span>
+    </div> </div> </div> <div class="claim-dependent"> <div num="2" class="claim"> <div class="claim-text"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">2.如权利要求1所述的切割工具，其特征在于，该第一平面包括相对一个工件的垂直切割方向，而该第二平面包括(i)在切割运作期间用于将刀具(B)压向工件(W)的一个朝前方向及(ii)与该朝前方向相反的一个朝后方向。</span> 2. The cutting tool according to claim 1, wherein the first plane comprises a vertical cutting direction with respect to a workpiece, and the second plane includes (i) for the tool during the cutting operation (B) pressure a forward direction of the workpiece (W) and (ii) a rearward direction opposite the forward direction.</span> </div> </div> </div> <div class="claim-dependent"> <div num="3" class="claim"> <div class="claim-text"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">3.如权利要求1或2所述的切割工具，其特征在于，一个支承销(22，53)以枢轴方式将滑块(14、51)连接于刀具夹持轴(21)，支承销(22、53)被置于滑块(14、51)与刀具(B)之间。</span> 3. The cutting tool as claimed in claim 1 or claim 2 pin, wherein a support pin (22,53) is pivotally slider (14,51) is connected to the tool holder axis (21), (22,53) is disposed between the slider and the tool (B) (14,51).</span> </div> </div> </div> <div class="claim-dependent"> <div num="4" class="claim"> <div class="claim-text"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">4.如权利要求3所述的切割工具，其特征在于，还包括一对以可转动方式支承支承销(22、53)的轴承(54)。</span> The cutting tool as claimed in claim 3, characterized in that, further comprising a pair of bearings (54) rotatably supported in a support pin (22,53) is.</span> </div> </div> </div> <div class="claim-dependent"> <div num="5" class="claim"> <div class="claim-text"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">5.如权利要求1所述的切割工具，其特征在于，刀具夹持轴(21)被防止环绕其纵轴线转动或扭转。</span> 5. The cutting tool according to claim 1, characterized in that the tool holder shaft (21) about its longitudinal axis is prevented from turning or twisting.</span> </div> </div> </div> <div class="claim-dependent"> <div num="6" class="claim"> <div class="claim-text"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">6.如权利要求5所述切割工具，还包括带支承孔(23a)的一个固定套筒(23)，该刀具夹持轴(21)穿过支承孔(23a)延伸，由此防止刀具夹持轴相对于套筒(23)旋转，其特征在于，在刀具夹持轴(21)和支承孔(23a)的内壁之间限定了一个间隙，由此允许该刀具夹持轴(21)在第二平面内相对于套筒(23)运动。</span> 6. The cutting tool as claimed in claim 5, further comprising a tape support hole (23a) of a fastening sleeve (23), the tool holder shaft (21) extends through the support hole (23a), thereby preventing the tool holder holding the shaft relative to the sleeve (23) is rotated, wherein a gap is defined between an inner wall of the tool holder shaft (21) and bearing hole (23a), thereby allowing the tool holder shaft (21) relative to the sleeve (23) moving in a second plane.</span> </div> </div> </div> <div class="claim-dependent"> <div num="7" class="claim"> <div class="claim-text"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">7.如权利要求6所述的切割工具，其特征在于，支承孔(23a)具有一种基本上为非圆形的形状，刀具夹持轴(21)具有与支承孔(23a)形状基本上相应的基本上为非圆形的外周面。</span> 7. The cutting tool according to claim 6, characterized in that the support hole (23a) having an essentially non-circular shape, the tool holder shaft (21) having a support hole (23a) shaped substantially respective substantially non-circular outer circumferential surface.</span> </div> </div> </div> <div class="claim-dependent"> <div num="8" class="claim"> <div class="claim-text"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">8.如权利要求6或7所述的切割工具，其特征在于，支承孔(23a)及刀具夹持轴(21)外周面是矩形。</span> The cutting tool of claim 6 or 7 as claimed in claim 8, characterized in that the outer circumferential surface of the bearing hole (23a) and the tool holder shaft (21) is rectangular.</span> </div> </div> </div> <div class="claim-dependent"> <div num="9" class="claim"> <div class="claim-text"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">9.如权利要求1所述的切割工具，其特征在于，还包括在该第二平面内与刀具(B)或刀具夹持轴(21)接触的一个偏压滚(27)，偏压滚(27)被设计和安排得在第二平面内作与在第一平面内的滑块(14、51)往复运动同步的往复运动。</span> 9. The cutting tool according to claim 1, characterized in that, further comprising a biasing roller (27) within the second plane in contact with the tool (B) or the tool holder axis (21), a bias roller (27) is designed and arranged so as to slide in a second plane (14,51) in a first plane of reciprocation of the reciprocating motion synchronized.</span> </div> </div> </div> <div class="claim-dependent"> <div num="10" class="claim"> <div class="claim-text"> <span class="notranslate"> <span class="google-src-text" style="direction: ltr; text-align: left">10.如权利要求1所述的切割工具，其特征在于，该运动转换机构包括：由马达(3)驱动可环绕一个旋转轴转动的曲柄盘(10)；安装在曲柄盘(10)上的导滚(12)，导滚(12)的轴线偏离曲柄盘(10)的旋转轴线，其中，导滚(12)随着曲柄盘(10)转动而环绕曲柄盘(10)的旋转轴线旋转，滑块(14、51)有一个用可滑动方式夹持导滚(12)的接合槽(14c)，接合槽(14c)基本上平行于该第一平面延伸，以及以可滑动方式接纳滑块(14、51)的导向块(15、55)。</span> 10. The cutting tool according to claim 1, wherein the motion converting mechanism comprising: a motor (3) driving rotatable about a rotation axis of the crank disc (10); mounted on the crank disc (10) the rotation axis of the rotating guide roller (12), the guide roller (12) offset from the axis of the crank disc (10), wherein the guide roller (12) with the crank disc (10) rotatably encircling the crank disc (10) of rotation, a slider (14,51) has a clamping guide roller (12) is slidably engaged with a groove (. 14C), the engagement groove (. 14C) substantially extending parallel to the first plane, and a slider slidably receiving (14,51) of the guide blocks (15, 55).</span> </div> </div> </div> </div></div>
+  </section>
+
+  <section itemprop="application" itemscope>
+
+    <section itemprop="metadata" itemscope>
+        <span itemprop="applicationNumber">CN 01138458</span>
+        <span itemprop="priorityDate">2000-09-19</span>
+        <span itemprop="filingDate">2001-09-19</span>
+        <span itemprop="title">Reciprocating cutting tool 
+       </span>
+        
+        
+        <a href="/patent/CN1250377C/en">
+            <span itemprop="representativePublication">CN1250377C</span>
+            (<span itemprop="primaryLanguage">en</span>)
+        </a>
+    </section>
+
+    <h2>Priority Applications (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">JP2000283964A</span>
+                   
+                   <a href="/patent/JP3710697B2/en">
+                        <span itemprop="representativePublication">JP3710697B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2000-09-19</td>
+                <td itemprop="filingDate">2000-09-19</td>
+                <td itemprop="title">  Reciprocating cutting tool  </td>
+              </tr>
+           </tbody>
+       </table>
+
+    
+
+    
+
+    
+
+    <h2>Publications (2)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Publication Number</th>
+                    <th>Publication Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="pubs" itemscope repeat>
+                <td>
+                   <span itemprop="publicationNumber">CN1404971A</span>
+                   
+                   <a href="/patent/CN1404971A/en">CN1404971A
+                       (<span itemprop="primaryLanguage">en</span>)
+                   </a>
+                </td>
+                <td itemprop="publicationDate">2003-03-26</td>
+              </tr><tr itemprop="pubs" itemscope repeat>
+                <td>
+                   <span itemprop="publicationNumber">CN1250377C</span>
+                   
+                   <span itemprop="thisPatent">true</span>
+                   <a href="/patent/CN1250377C/en">CN1250377C
+                       (<span itemprop="primaryLanguage">en</span>)
+                   </a>
+                </td>
+                <td itemprop="publicationDate">2006-04-12</td>
+              </tr>
+           </tbody>
+        </table>
+
+  </section>
+
+  <section itemprop="family" itemscope>
+    <h1>Family</h1>
+    <h2>ID=18768252</h2>
+
+    <h2>Family Applications (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">CN 01138458</span>
+                    
+                    
+                    <a href="/patent/CN1250377C/en">
+                        <span itemprop="representativePublication">CN1250377C</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2000-09-19</td>
+                <td itemprop="filingDate">2001-09-19</td>
+                <td itemprop="title">Reciprocating cutting tool 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    
+
+    
+
+    <h2>Country Status (5)</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Country</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">US</span>
+                (<span itemprop="num">1</span>)
+              
+            </td>
+            <td>
+              <a href="/patent/US6625892B2/en">
+                <span itemprop="representativePublication">US6625892B2</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr><tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">EP</span>
+                (<span itemprop="num">1</span>)
+              
+            </td>
+            <td>
+              <a href="/patent/EP1188505B1/en">
+                <span itemprop="representativePublication">EP1188505B1</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr><tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">JP</span>
+                (<span itemprop="num">1</span>)
+              
+            </td>
+            <td>
+              <a href="/patent/JP3710697B2/en">
+                <span itemprop="representativePublication">JP3710697B2</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr><tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">CN</span>
+                (<span itemprop="num">1</span>)
+              <meta itemprop="thisCountry" content="true">
+            </td>
+            <td>
+              <a href="/patent/CN1250377C/en">
+                <span itemprop="representativePublication">CN1250377C</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr><tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">DE</span>
+                (<span itemprop="num">1</span>)
+              
+            </td>
+            <td>
+              <a href="/patent/DE60118854T2/en">
+                <span itemprop="representativePublication">DE60118854T2</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr>
+      </tbody>
+    </table>
+
+    
+
+    <h2>Families Citing this family (41)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6568089B1/en">
+              <span itemprop="publicationNumber">US6568089B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1999-06-04</td>
+          <td itemprop="publicationDate">2003-05-27</td>
+          <td><span itemprop="assigneeOriginal">Porter-Cable/Delta</span></td>
+          <td itemprop="title">Reciprocating saw having compact configuration and independent stability 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7257900B2/en">
+              <span itemprop="publicationNumber">US7257900B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-01-02</td>
+          <td itemprop="publicationDate">2007-08-21</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc.</span></td>
+          <td itemprop="title">Canted saw blade 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/GB2393934A/en">
+              <span itemprop="publicationNumber">GB2393934A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-10-07</td>
+          <td itemprop="publicationDate">2004-04-14</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc</span></td>
+          <td itemprop="title">A reciprocating saw with two eccentrics 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DE10248921A1/en">
+              <span itemprop="publicationNumber">DE10248921A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-10-17</td>
+          <td itemprop="publicationDate">2004-05-13</td>
+          <td><span itemprop="assigneeOriginal">C. &amp; E. Fein Gmbh &amp; Co Kg</span></td>
+          <td itemprop="title">Electric tool e.g. edge grinder, with universal motor drive having self-supporting stator with support parts at its ends supporting motor shaft and motor brushes 
+     </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CN2576394Y/en">
+              <span itemprop="publicationNumber">CN2576394Y</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-11-18</td>
+          <td itemprop="publicationDate">2003-10-01</td>
+          <td><span itemprop="assigneeOriginal">苏州宝时得电动工具有限公司</span></td>
+          <td itemprop="title">  Reciprocating saw  </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7174822B2/en">
+              <span itemprop="publicationNumber">US7174822B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2004-01-13</td>
+          <td itemprop="publicationDate">2007-02-13</td>
+          <td><span itemprop="assigneeOriginal">Edgecraft Corporation</span></td>
+          <td itemprop="title">Efficient food slicer 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/GB0405729D0/en">
+              <span itemprop="publicationNumber">GB0405729D0</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-03-15</td>
+          <td itemprop="publicationDate">2004-04-21</td>
+          <td><span itemprop="assigneeOriginal">Gmca Pty Ltd</span></td>
+          <td itemprop="title">Power tool bearing arrangement 
+     </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/ES2303027T3/en">
+              <span itemprop="publicationNumber">ES2303027T3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2004-05-18</td>
+          <td itemprop="publicationDate">2008-08-01</td>
+          <td><span itemprop="assigneeOriginal">Black &amp;amp; Decker Inc.</span></td>
+          <td itemprop="title">Motorized tool that includes a operating mode selection mechanism. 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/AT407760T/en">
+              <span itemprop="publicationNumber">AT407760T</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2004-05-18</td>
+          <td itemprop="publicationDate">2008-09-15</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc</span></td>
+          <td itemprop="title">Holding device for the output shaft of a flipmable power tool 
+     </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/AT340670T/en">
+              <span itemprop="publicationNumber">AT340670T</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2004-05-18</td>
+          <td itemprop="publicationDate">2006-10-15</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc</span></td>
+          <td itemprop="title">Arrangement of an outlet tool and motorized tool with such an arrangement 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DE102004050800A1/en">
+              <span itemprop="publicationNumber">DE102004050800A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2004-10-19</td>
+          <td itemprop="publicationDate">2006-04-20</td>
+          <td><span itemprop="assigneeOriginal">Robert Bosch Gmbh</span></td>
+          <td itemprop="title">Eccentric gear with a balancing element 
+     </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2006042366A1/en">
+              <span itemprop="publicationNumber">WO2006042366A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-10-21</td>
+          <td itemprop="publicationDate">2006-04-27</td>
+          <td><span itemprop="assigneeOriginal">Btb Automotive Pty Ltd</span></td>
+          <td itemprop="title">Electric reciprocating cutting tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2006175524A/en">
+              <span itemprop="publicationNumber">JP2006175524A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2004-12-20</td>
+          <td itemprop="publicationDate">2006-07-06</td>
+          <td><span itemprop="assigneeOriginal">Hitachi Koki Co Ltd</span></td>
+          <td itemprop="title">Reciprocating tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CA2616130A1/en">
+              <span itemprop="publicationNumber">CA2616130A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2005-07-19</td>
+          <td itemprop="publicationDate">2007-01-25</td>
+          <td><span itemprop="assigneeOriginal">The Shire Corporation</span></td>
+          <td itemprop="title">An attachment apparatus adapter 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP4525532B2/en">
+              <span itemprop="publicationNumber">JP4525532B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2005-08-29</td>
+          <td itemprop="publicationDate">2010-08-18</td>
+          <td><span itemprop="assigneeOriginal">日立工機株式会社</span></td>
+          <td itemprop="title">Jigsaw 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20070084318A1/en">
+              <span itemprop="publicationNumber">US20070084318A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2005-09-13</td>
+          <td itemprop="publicationDate">2007-04-19</td>
+          <td><span itemprop="assigneeOriginal">Tolga Unver</span></td>
+          <td itemprop="title">Bar Feeding Apparatus and Method 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP4692288B2/en">
+              <span itemprop="publicationNumber">JP4692288B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2006-01-11</td>
+          <td itemprop="publicationDate">2011-06-01</td>
+          <td><span itemprop="assigneeOriginal">日立工機株式会社</span></td>
+          <td itemprop="title">Electric tool and assembling method thereof 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP4751214B2/en">
+              <span itemprop="publicationNumber">JP4751214B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2006-02-28</td>
+          <td itemprop="publicationDate">2011-08-17</td>
+          <td><span itemprop="assigneeOriginal">株式会社アマダ</span></td>
+          <td itemprop="title">Band saw machine 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DE102006030558A1/en">
+              <span itemprop="publicationNumber">DE102006030558A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2006-07-03</td>
+          <td itemprop="publicationDate">2008-01-10</td>
+          <td><span itemprop="assigneeOriginal">Robert Bosch Gmbh</span></td>
+          <td itemprop="title">hand-held jigsaw 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DE102007025967A1/en">
+              <span itemprop="publicationNumber">DE102007025967A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2007-06-04</td>
+          <td itemprop="publicationDate">2008-12-11</td>
+          <td><span itemprop="assigneeOriginal">Robert Bosch Gmbh</span></td>
+          <td itemprop="title">Pendulum guide device for a lifting movements performing saw blade of a Hubsägemaschine 
+     </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US9827623B2/en">
+              <span itemprop="publicationNumber">US9827623B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2007-09-21</td>
+          <td itemprop="publicationDate">2017-11-28</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc.</span></td>
+          <td itemprop="title">Control of reciprocation speed and orbital magnitude of a jigsaw with a plurality of material and/or task descriptive icons 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8033026B2/en">
+              <span itemprop="publicationNumber">US8033026B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2007-09-21</td>
+          <td itemprop="publicationDate">2011-10-11</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc.</span></td>
+          <td itemprop="title">Adjustable and removable keel assembly and blade guide for a jigsaw 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US10029322B2/en">
+              <span itemprop="publicationNumber">US10029322B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2007-09-21</td>
+          <td itemprop="publicationDate">2018-07-24</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc.</span></td>
+          <td itemprop="title">Housing of a cutting tool including blade storage, integral blade guard and motor ventilation pathway 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US9981327B2/en">
+              <span itemprop="publicationNumber">US9981327B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2007-09-21</td>
+          <td itemprop="publicationDate">2018-05-29</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc.</span></td>
+          <td itemprop="title">Cutting angle indicator in jigsaw housing with dust extraction 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/KR200442289Y1/en">
+              <span itemprop="publicationNumber">KR200442289Y1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2007-10-09</td>
+          <td itemprop="publicationDate">2008-10-27</td>
+          <td><span itemprop="assigneeOriginal">(주) 제이이티앤드케이</span></td>
+          <td itemprop="title">Portable power saw 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8407902B2/en">
+              <span itemprop="publicationNumber">US8407902B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-03-07</td>
+          <td itemprop="publicationDate">2013-04-02</td>
+          <td><span itemprop="assigneeOriginal">Milwaukee Electric Tool Corporation</span></td>
+          <td itemprop="title">Reciprocating power tool having a counterbalance device 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8230607B2/en">
+              <span itemprop="publicationNumber">US8230607B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-05-09</td>
+          <td itemprop="publicationDate">2012-07-31</td>
+          <td><span itemprop="assigneeOriginal">Milwaukee Electric Tool Corporation</span></td>
+          <td itemprop="title">Keyless blade clamp for a power tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CN101596620B/en">
+              <span itemprop="publicationNumber">CN101596620B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-06-05</td>
+          <td itemprop="publicationDate">2012-10-24</td>
+          <td><span itemprop="assigneeOriginal">苏州宝时得电动工具有限公司</span></td>
+          <td itemprop="title">  Reciprocating cutting tool  </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DE102008041682A1/en">
+              <span itemprop="publicationNumber">DE102008041682A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2008-08-29</td>
+          <td itemprop="publicationDate">2010-03-04</td>
+          <td><span itemprop="assigneeOriginal">Robert Bosch Gmbh</span></td>
+          <td itemprop="title">Electric hand tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DE102009000029A1/en">
+              <span itemprop="publicationNumber">DE102009000029A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2009-01-05</td>
+          <td itemprop="publicationDate">2010-07-08</td>
+          <td><span itemprop="assigneeOriginal">Robert Bosch Gmbh</span></td>
+          <td itemprop="title">Machine tool with a support device for a tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DE102009046374A1/en">
+              <span itemprop="publicationNumber">DE102009046374A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2009-10-23</td>
+          <td itemprop="publicationDate">2011-04-28</td>
+          <td><span itemprop="assigneeOriginal">Robert Bosch Gmbh</span></td>
+          <td itemprop="title">Machine tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2011115912A/en">
+              <span itemprop="publicationNumber">JP2011115912A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2009-12-04</td>
+          <td itemprop="publicationDate">2011-06-16</td>
+          <td><span itemprop="assigneeOriginal">Hitachi Koki Co Ltd</span></td>
+          <td itemprop="title">Reciprocating tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP5474642B2/en">
+              <span itemprop="publicationNumber">JP5474642B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2010-04-12</td>
+          <td itemprop="publicationDate">2014-04-16</td>
+          <td><span itemprop="assigneeOriginal">株式会社マキタ</span></td>
+          <td itemprop="title">Reciprocating cutting tool 
+     </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP5517109B2/en">
+              <span itemprop="publicationNumber">JP5517109B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2010-09-30</td>
+          <td itemprop="publicationDate">2014-06-11</td>
+          <td><span itemprop="assigneeOriginal">日立工機株式会社</span></td>
+          <td itemprop="title">Reciprocating tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8578615B2/en">
+              <span itemprop="publicationNumber">US8578615B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2011-09-12</td>
+          <td itemprop="publicationDate">2013-11-12</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc.</span></td>
+          <td itemprop="title">Jigsaw with deployable keel and tiltable shoe 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CN102500964B/en">
+              <span itemprop="publicationNumber">CN102500964B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2011-10-13</td>
+          <td itemprop="publicationDate">2014-09-10</td>
+          <td><span itemprop="assigneeOriginal">苏州日和科技有限公司</span></td>
+          <td itemprop="title">Solder strip cutting and feeding device for welding machine of solar cell 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US9559628B2/en">
+              <span itemprop="publicationNumber">US9559628B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2013-10-25</td>
+          <td itemprop="publicationDate">2017-01-31</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc.</span></td>
+          <td itemprop="title">Handheld power tool with compact AC switch 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/EP3147058A4/en">
+              <span itemprop="publicationNumber">EP3147058A4</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2014-05-23</td>
+          <td itemprop="publicationDate">2017-12-27</td>
+          <td><span itemprop="assigneeOriginal">Hitachi Koki Co., Ltd.</span></td>
+          <td itemprop="title">Reciprocating tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP6375878B2/en">
+              <span itemprop="publicationNumber">JP6375878B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2014-10-31</td>
+          <td itemprop="publicationDate">2018-08-22</td>
+          <td><span itemprop="assigneeOriginal">工機ホールディングス株式会社</span></td>
+          <td itemprop="title">Reciprocating tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2018014850A1/en">
+              <span itemprop="publicationNumber">WO2018014850A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2016-07-19</td>
+          <td itemprop="publicationDate">2018-01-25</td>
+          <td><span itemprop="assigneeOriginal">苏州宝时得电动工具有限公司</span></td>
+          <td itemprop="title">Reciprocating cutting tool 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US10328506B2/en">
+              <span itemprop="publicationNumber">US10328506B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2016-07-22</td>
+          <td itemprop="publicationDate">2019-06-25</td>
+          <td><span itemprop="assigneeOriginal">Makita Corporation</span></td>
+          <td itemprop="title">Reciprocating tool 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    <h2>Family Cites Families (15)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US1542127A/en">
+              <span itemprop="publicationNumber">US1542127A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1924-10-31</td>
+          <td itemprop="publicationDate">1925-06-16</td>
+          <td><span itemprop="assigneeOriginal">Charles B Hastings</span></td>
+          <td itemprop="title">Portable electric saw 
+     </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US2746493A/en">
+              <span itemprop="publicationNumber">US2746493A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1954-12-07</td>
+          <td itemprop="publicationDate">1956-05-22</td>
+          <td><span itemprop="assigneeOriginal">William J Babcock</span></td>
+          <td itemprop="title">Telescoped driving connection for power tools 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US2917088A/en">
+              <span itemprop="publicationNumber">US2917088A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1956-12-04</td>
+          <td itemprop="publicationDate">1959-12-15</td>
+          <td><span itemprop="assigneeOriginal">Walter A Papworth</span></td>
+          <td itemprop="title">Manually portable power driven cutting tool with oval stroke 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US3204470A/en">
+              <span itemprop="publicationNumber">US3204470A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1960-04-04</td>
+          <td itemprop="publicationDate">1965-09-07</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Mfg Co</span></td>
+          <td itemprop="title">Arcuate motion jig saw 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US3236111A/en">
+              <span itemprop="publicationNumber">US3236111A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1961-01-06</td>
+          <td itemprop="publicationDate">1966-02-22</td>
+          <td><span itemprop="assigneeOriginal">Skil Corp</span></td>
+          <td itemprop="title">Jig saw 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US3212938A/en">
+              <span itemprop="publicationNumber">US3212938A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1962-10-17</td>
+          <td itemprop="publicationDate">1965-10-19</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Mfg Co</span></td>
+          <td itemprop="title">Switch for cordless electrical device 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US3863342A/en">
+              <span itemprop="publicationNumber">US3863342A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1971-09-17</td>
+          <td itemprop="publicationDate">1975-02-04</td>
+          <td><span itemprop="assigneeOriginal">Rockwell International Corp</span></td>
+          <td itemprop="title">Saber saw 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US4238884A/en">
+              <span itemprop="publicationNumber">US4238884A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1979-06-19</td>
+          <td itemprop="publicationDate">1980-12-16</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc.</span></td>
+          <td itemprop="title">Orbital jig saw 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/SU1025507A1/en">
+              <span itemprop="publicationNumber">SU1025507A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1982-01-05</td>
+          <td itemprop="publicationDate">1983-06-30</td>
+          <td><span itemprop="assigneeOriginal">Всесоюзный Научно-Исследовательский И Проектно-Конструкторский Институт Механизированного И Ручного Строительно-Монтажного Инструмента,Вибраторов И Строительно-Отделочных Машин</span></td>
+          <td itemprop="title">Power pretsaw 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CH657799A5/en">
+              <span itemprop="publicationNumber">CH657799A5</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1982-12-10</td>
+          <td itemprop="publicationDate">1986-09-30</td>
+          <td><span itemprop="assigneeOriginal">Ceka Elektrowerkzeuge Ag &amp; Co</span></td>
+          <td itemprop="title">Jig saw 
+     </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US4628605A/en">
+              <span itemprop="publicationNumber">US4628605A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1985-06-10</td>
+          <td itemprop="publicationDate">1986-12-16</td>
+          <td><span itemprop="assigneeOriginal">Porter-Cable Corporation</span></td>
+          <td itemprop="title">Orbital bayonet saw 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/SU1558673A1/en">
+              <span itemprop="publicationNumber">SU1558673A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1987-06-23</td>
+          <td itemprop="publicationDate">1990-04-23</td>
+          <td><span itemprop="assigneeOriginal">Московское Научно-Производственное Объединение По Механизированному Строительному Инструменту И Отделочным Машинам</span></td>
+          <td itemprop="title">Mechanical scroll saw 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DE3825654C2/en">
+              <span itemprop="publicationNumber">DE3825654C2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1988-07-28</td>
+          <td itemprop="publicationDate">1992-12-10</td>
+          <td><span itemprop="assigneeOriginal">Robert Bosch Gmbh, 7000 Stuttgart, De</span></td>
+          <td itemprop="title"></td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US5638945A/en">
+              <span itemprop="publicationNumber">US5638945A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1996-06-10</td>
+          <td itemprop="publicationDate">1997-06-17</td>
+          <td><span itemprop="assigneeOriginal">Ryobi North America, Inc.</span></td>
+          <td itemprop="title">Locking trigger mechanism for a portable power tool 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6181032B1/en">
+              <span itemprop="publicationNumber">US6181032B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1999-07-14</td>
+          <td itemprop="publicationDate">2001-01-30</td>
+          <td><span itemprop="assigneeOriginal">Black &amp; Decker Inc.</span></td>
+          <td itemprop="title">Releasably connecting power packs to electrical appliances 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+    <ul>
+      
+      <li itemprop="applicationsByYear" itemscope repeat>
+        <span itemprop="year">2000</span>
+        <ul>
+          
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2000-09-19</span>
+            <span itemprop="countryCode">JP</span>
+            <span itemprop="applicationNumber">JP2000283964A</span>
+            <a href="/patent/JP3710697B2/en"><span itemprop="documentId">patent/JP3710697B2/en</span></a>
+            <span itemprop="legalStatusCat">active</span>
+            <span itemprop="legalStatus">Active</span>
+            
+          </li>
+          
+        </ul>
+      </li>
+      
+      <li itemprop="applicationsByYear" itemscope repeat>
+        <span itemprop="year">2001</span>
+        <ul>
+          
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2001-09-18</span>
+            <span itemprop="countryCode">DE</span>
+            <span itemprop="applicationNumber">DE2001618854</span>
+            <a href="/patent/DE60118854T2/en"><span itemprop="documentId">patent/DE60118854T2/en</span></a>
+            <span itemprop="legalStatusCat">active</span>
+            <span itemprop="legalStatus">Active</span>
+            
+          </li>
+          
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2001-09-18</span>
+            <span itemprop="countryCode">EP</span>
+            <span itemprop="applicationNumber">EP20010122287</span>
+            <a href="/patent/EP1188505B1/en"><span itemprop="documentId">patent/EP1188505B1/en</span></a>
+            <span itemprop="legalStatusCat">active</span>
+            <span itemprop="legalStatus">Active</span>
+            
+          </li>
+          
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2001-09-19</span>
+            <span itemprop="countryCode">US</span>
+            <span itemprop="applicationNumber">US09/955,305</span>
+            <a href="/patent/US6625892B2/en"><span itemprop="documentId">patent/US6625892B2/en</span></a>
+            <span itemprop="legalStatusCat">active</span>
+            <span itemprop="legalStatus">Active</span>
+            
+          </li>
+          
+          <li itemprop="application" itemscope repeat>
+            <span itemprop="filingDate">2001-09-19</span>
+            <span itemprop="countryCode">CN</span>
+            <span itemprop="applicationNumber">CN 01138458</span>
+            <a href="/patent/CN1250377C/en"><span itemprop="documentId">patent/CN1250377C/en</span></a>
+            <span itemprop="legalStatusCat">active</span>
+            <span itemprop="legalStatus">IP Right Grant</span>
+            
+            <span itemprop="thisApp" content="true" bool></span>
+            
+          </li>
+          
+        </ul>
+      </li>
+      
+    </ul>
+    
+
+    </section>
+
+  
+
+  
+
+  
+
+  <section>
+    <h2>Also Published As</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Publication date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6625892B2/en">
+              <span itemprop="publicationNumber">US6625892B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2003-09-30</td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DE60118854T2/en">
+              <span itemprop="publicationNumber">DE60118854T2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2006-11-16</td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/EP1188505A2/en">
+              <span itemprop="publicationNumber">EP1188505A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2002-03-20</td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2002086402A/en">
+              <span itemprop="publicationNumber">JP2002086402A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2002-03-26</td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/EP1188505B1/en">
+              <span itemprop="publicationNumber">EP1188505B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2006-04-19</td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP3710697B2/en">
+              <span itemprop="publicationNumber">JP3710697B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2005-10-26</td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DE60118854D1/en">
+              <span itemprop="publicationNumber">DE60118854D1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2006-05-24</td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/EP1188505A3/en">
+              <span itemprop="publicationNumber">EP1188505A3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2003-09-17</td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CN1404971A/en">
+              <span itemprop="publicationNumber">CN1404971A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2003-03-26</td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20020032968A1/en">
+              <span itemprop="publicationNumber">US20020032968A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2002-03-21</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Similar Documents</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication</th>
+          <th>Publication Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US3388728A/en">
+                <span itemprop="publicationNumber">US3388728A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1968-06-18">1968-06-18</time>
+            
+            
+          </td>
+          <td itemprop="title">Portable power tools 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US4272996A/en">
+                <span itemprop="publicationNumber">US4272996A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1981-06-16">1981-06-16</time>
+            
+            
+          </td>
+          <td itemprop="title">Scotch yoke having a curved track 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/EP1502686B1/en">
+                <span itemprop="publicationNumber">EP1502686B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2007-03-14">2007-03-14</time>
+            
+            
+          </td>
+          <td itemprop="title">Reciprocating saw 
+     </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/CA1213195A/en">
+                <span itemprop="publicationNumber">CA1213195A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1986-10-28">1986-10-28</time>
+            
+            
+          </td>
+          <td itemprop="title">Orbital-action reciprocating power saw 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US6282797B1/en">
+                <span itemprop="publicationNumber">US6282797B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2001-09-04">2001-09-04</time>
+            
+            
+          </td>
+          <td itemprop="title">Cutting mechanism for saber saw 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/EP1277535B1/en">
+                <span itemprop="publicationNumber">EP1277535B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2007-03-07">2007-03-07</time>
+            
+            
+          </td>
+          <td itemprop="title">Reciprocating saw 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20050262710A1/en">
+                <span itemprop="publicationNumber">US20050262710A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-12-01">2005-12-01</time>
+            
+            
+          </td>
+          <td itemprop="title">Anti-rotation drive mechanism for a reciprocating saw 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/EP1832394B1/en">
+                <span itemprop="publicationNumber">EP1832394B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2015-06-24">2015-06-24</time>
+            
+            
+          </td>
+          <td itemprop="title">Impact tool with vibration control mechanism 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US4240204A/en">
+                <span itemprop="publicationNumber">US4240204A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1980-12-23">1980-12-23</time>
+            
+            
+          </td>
+          <td itemprop="title">Jig saw 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US4255858A/en">
+                <span itemprop="publicationNumber">US4255858A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1981-03-17">1981-03-17</time>
+            
+            
+          </td>
+          <td itemprop="title">Jig saw with orbitally movable blade 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/CN100352629C/en">
+                <span itemprop="publicationNumber">CN100352629C</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2007-12-05">2007-12-05</time>
+            
+            
+          </td>
+          <td itemprop="title">  Reciprocating saw  </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/TW438638B/en">
+                <span itemprop="publicationNumber">TW438638B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2001-06-07">2001-06-07</time>
+            
+            
+          </td>
+          <td itemprop="title">Orbital reciprocating saw 
+     </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/JPH06198601A/en">
+                <span itemprop="publicationNumber">JPH06198601A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1994-07-19">1994-07-19</time>
+            
+            
+          </td>
+          <td itemprop="title">Counterbalanced orbital drive mechanism for saw and the like 
+     </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US6920694B2/en">
+                <span itemprop="publicationNumber">US6920694B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-07-26">2005-07-26</time>
+            
+            
+          </td>
+          <td itemprop="title">Saw with a tool guidance mechanism with guide elements adjustable to the tool size 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US4962588A/en">
+                <span itemprop="publicationNumber">US4962588A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1990-10-16">1990-10-16</time>
+            
+            
+          </td>
+          <td itemprop="title">Portable reciprocating saw 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/JP2004130801A/en">
+                <span itemprop="publicationNumber">JP2004130801A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2004-04-30">2004-04-30</time>
+            
+            
+          </td>
+          <td itemprop="title">Reciprocating saw 
+     </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/JP3588065B2/en">
+                <span itemprop="publicationNumber">JP3588065B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2004-11-10">2004-11-10</time>
+            
+            
+          </td>
+          <td itemprop="title">  Tube cutter  </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/EP2012978B1/en">
+                <span itemprop="publicationNumber">EP2012978B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2016-08-03">2016-08-03</time>
+            
+            
+          </td>
+          <td itemprop="title">Electrical power tool 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/JPH08281605A/en">
+                <span itemprop="publicationNumber">JPH08281605A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1996-10-29">1996-10-29</time>
+            
+            
+          </td>
+          <td itemprop="title">Compass saw 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/JP2006159308A/en">
+                <span itemprop="publicationNumber">JP2006159308A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2006-06-22">2006-06-22</time>
+            
+            
+          </td>
+          <td itemprop="title">Reciprocating type working tool 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US4238884A/en">
+                <span itemprop="publicationNumber">US4238884A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1980-12-16">1980-12-16</time>
+            
+            
+          </td>
+          <td itemprop="title">Orbital jig saw 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/JP4405195B2/en">
+                <span itemprop="publicationNumber">JP4405195B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2010-01-27">2010-01-27</time>
+            
+            
+          </td>
+          <td itemprop="title">Reciprocating power tool 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/AU2003257883B2/en">
+                <span itemprop="publicationNumber">AU2003257883B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2008-09-25">2008-09-25</time>
+            
+            
+          </td>
+          <td itemprop="title">Support mechanism for reciprocating tool and tool incorporating such mechanism 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/DE60118854T2/en">
+                <span itemprop="publicationNumber">DE60118854T2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2006-11-16">2006-11-16</time>
+            
+            
+          </td>
+          <td itemprop="title">Reciprocating cutting tool 
+     </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/JPH05237710A/en">
+                <span itemprop="publicationNumber">JPH05237710A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1993-09-17">1993-09-17</time>
+            
+            
+          </td>
+          <td itemprop="title">Machine tool and method of operating it 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Legal Events</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Code</th>
+          <th>Title</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2002-07-03">2002-07-03</time></td>
+          <td itemprop="code">C10</td>
+          <td itemprop="title">Request of examination as to substance</td>
+          <td>
+            
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2003-03-26">2003-03-26</time></td>
+          <td itemprop="code">C06</td>
+          <td itemprop="title">Publication</td>
+          <td>
+            
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2003-05-28">2003-05-28</time></td>
+          <td itemprop="code">C10</td>
+          <td itemprop="title">Request of examination as to substance</td>
+          <td>
+            
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2003-06-04">2003-06-04</time></td>
+          <td itemprop="code">C10</td>
+          <td itemprop="title">Request of examination as to substance</td>
+          <td>
+            
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2006-04-12">2006-04-12</time></td>
+          <td itemprop="code">C14</td>
+          <td itemprop="title">Granted</td>
+          <td>
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</article>
+
+    </search-app>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/api.js"></script>
+    <script async="" defer="" src="//www.google.com/insights/consumersurveys/async_survey?site=cxkjf7ipxgbnnjy6k35ezcvbbe"></script>
+  </body>
+</html>
